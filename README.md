@@ -74,7 +74,21 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 ---
 
-### 🩺 2 · Knee OA Medical ViT Ensemble Diagnostic Pipeline
+### 🎬 2 · YouTube Shorts Automation
+> `AI Automation` | LLM Script → TTS → Video → Auto-Upload
+
+AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script writing, TTS voiceover synthesis, automated video editing, and YouTube Data API v3 publishing. Zero manual effort.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square)
+![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Automation-Video-Generator)
+
+---
+
+### 🩺 3 · Knee OA Medical ViT Ensemble Diagnostic Pipeline
 > `Research AI` | **90.07% Accuracy** | **0.830 Cohen's Kappa** | Q1 Journal Standards
 
 Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses ConvNeXt-Base, Swin Transformer & DINO ViT with custom Ordinal Regression Loss and 4-View TTA. DINO ViT ablation confirmed as dominant backbone (−8.21% on removal).
@@ -94,7 +108,7 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 
 ---
 
-### 🧪 3 · Clinical Liver Disease Diagnosis ML Pipeline
+### 🧪 4 · Clinical Liver Disease Diagnosis ML Pipeline
 > `IEEE Published — ICOCT 2025` | RFXG Classifier | Clinical ML
 
 End-to-end ML pipeline for clinical liver disease prediction — IEEE published. RFXG ensemble evaluated with ROC-AUC, F1, precision-recall, and McNemar's significance testing on real patient data.
@@ -104,20 +118,6 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav)
-
----
-
-### 🎬 4 · YouTube Shorts Automation
-> `AI Automation` | LLM Script → TTS → Video → Auto-Upload
-
-AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script writing, TTS voiceover synthesis, automated video editing, and YouTube Data API v3 publishing. Zero manual effort.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square)
-![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Automation-Video-Generator)
 
 ---
 
