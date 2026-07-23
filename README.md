@@ -183,12 +183,14 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SettyBhavithav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SettyBhavithav&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SettyBhavithav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SettyBhavithav&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true" width="70%"/>
+<br/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true" width="68%"/>
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=SettyBhavithav&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=8"/>
 
