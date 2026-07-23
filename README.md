@@ -46,8 +46,6 @@ End-to-end clinical ML research for automated liver disease prediction. Designed
 
 `PyTorch` `Scikit-Learn` `Pandas` `ROC-AUC Testing` `Feature Engineering` `Clinical ML`
 
-[![Read Paper](https://img.shields.io/badge/📄_Read_IEEE_Paper-4F46E5?style=for-the-badge&logoColor=white)](https://github.com/SettyBhavithav)
-
 ---
 
 ## 🚀 Top Projects
@@ -78,32 +76,7 @@ End-to-end clinical ML research for automated liver disease prediction. Designed
 ---
 
 <details open>
-<summary><b>🎯 2. Real-Time Object Detection & Spatial Audio Alert AI</b> &nbsp; <img src="https://img.shields.io/badge/Live_Web_App-059669?style=flat-square"/></summary>
-
-<br/>
-
-> Production CV web app performing 80-class object detection, centroid tracking & ROI Danger Zone monitoring. Hybrid vision engine (YOLOv3 DNN + Haar Cascade fallback) guarantees 100% human detection on live webcam streams with instant spatial audio alerts.
-
-| Metric | Value |
-|---|---|
-| 📦 Detection Classes | 80 COCO classes |
-| 🎙️ Audio Alerts | Web Audio API + TTS |
-| ☁️ Deployment | Render Cloud |
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv3](https://img.shields.io/badge/YOLOv3-00ADB5?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-[![Repository](https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/object-detection-with-sound-by-using-open-cv)
-[![Live App](https://img.shields.io/badge/🌐_Live_App-059669?style=for-the-badge&logoColor=white)](https://object-detection-with-sound-by-using.onrender.com)
-
-</details>
-
----
-
-<details>
-<summary><b>🩺 3. Knee OA Medical ViT Ensemble Diagnostic Pipeline</b> &nbsp; <img src="https://img.shields.io/badge/Research_AI-7C3AED?style=flat-square"/></summary>
+<summary><b>🩺 2. Knee OA Medical ViT Ensemble Diagnostic Pipeline</b> &nbsp; <img src="https://img.shields.io/badge/Research_AI-7C3AED?style=flat-square"/></summary>
 
 <br/>
 
@@ -127,11 +100,63 @@ End-to-end clinical ML research for automated liver disease prediction. Designed
 ---
 
 <details>
-<summary><b>🧩 4. AI & Gesture-Based Maze Solver</b> &nbsp; <img src="https://img.shields.io/badge/🏆_Top_5_Hackathon-D97706?style=flat-square"/></summary>
+<summary><b>🧪 3. Clinical Liver Disease Diagnosis ML Pipeline</b> &nbsp; <img src="https://img.shields.io/badge/IEEE_Published-059669?style=flat-square"/></summary>
 
 <br/>
 
-> **Top 5 Finalist** at VR Siddhartha Engineering College Hackathon (2025). Computer vision gesture tracking fused with functional graph pathfinding — users navigate complex mazes entirely through hand gestures.
+> **IEEE Published** — ICOCT 2025. End-to-end clinical ML research for automated liver disease prediction using an RFXG ensemble classifier, ROC-AUC statistical testing, and feature engineering on real clinical patient data.
+
+| Metric | Value |
+|---|---|
+| 📄 Published At | IEEE ICOCT 2025 |
+| 📊 Evaluation | ROC-AUC · F1 · McNemar's Test |
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+[![Repository](https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav)
+
+</details>
+
+---
+
+<details>
+<summary><b>🎬 4. YouTube Shorts Automation</b> &nbsp; <img src="https://img.shields.io/badge/AI_Automation-FF0000?style=flat-square"/></summary>
+
+<br/>
+
+> AI-powered end-to-end YouTube Shorts automation pipeline — from topic generation to video creation and upload. Combines LLM script generation, TTS voiceover synthesis, automated video editing, and YouTube Data API integration to publish Shorts with zero manual effort.
+
+| Metric | Value |
+|---|---|
+| 🤖 Pipeline | Fully Automated End-to-End |
+| 🎙️ Voiceover | AI Text-to-Speech synthesis |
+| 📤 Publishing | YouTube Data API v3 |
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav)
+
+</details>
+
+---
+
+<details>
+<summary><b>🎮 5. AI Hand Gesture Gaming — Gesture-Based Maze Solver</b> &nbsp; <img src="https://img.shields.io/badge/🏆_Top_5_Hackathon-D97706?style=flat-square"/></summary>
+
+<br/>
+
+> **Top 5 Finalist** at VR Siddhartha Engineering College Hackathon (2025). Real-time hand gesture tracking fused with graph pathfinding algorithms — players navigate complex mazes entirely through hand gestures with no keyboard or mouse needed.
+
+| Metric | Value |
+|---|---|
+| 🏆 Achievement | Top 5 Finalist · 2025 |
+| 🎮 Control | 100% Gesture-Based, No peripherals |
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
