@@ -80,7 +80,8 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script writing, TTS voiceover synthesis, automated video editing, and YouTube Data API v3 publishing. Zero manual effort.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square)
 ![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
