@@ -168,14 +168,14 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 ## 🏆 Certifications & Achievements
 
-| | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services | 2025 |
-| 🔷 | Azure AI Engineer Associate | Microsoft | 2025 |
-| 🧠 | Oracle Generative AI Professional | Oracle | 2025 |
-| 🗄️ | Oracle MySQL 8.0 Database Developer | Oracle | 2025 |
-| 🏆 | Top 5 Finalist — AI Hackathon | VR Siddhartha Engineering College | 2025 |
-| 🌟 | Infosys Springboard Internship 7.0 | Infosys | 2026 |
+| | Certification | Issuer |
+|:---:|:---|:---|
+| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services |
+| 🔷 | Azure AI Engineer Associate | Microsoft |
+| 🧠 | Oracle Generative AI Professional | Oracle |
+| 🗄️ | Oracle MySQL 8.0 Database Developer | Oracle |
+| 🏆 | Top 5 Finalist — AI Hackathon | VR Siddhartha Engineering College |
+| 🌟 | Infosys Springboard Internship 7.0 | Infosys |
 
 ---
 
@@ -183,16 +183,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SettyBhavithav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SettyBhavithav&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true" width="68%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SettyBhavithav&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=8"/>
+<img src="https://streak-stats.demolab.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true" width="70%"/>
 
 <br/>
 
