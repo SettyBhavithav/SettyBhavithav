@@ -25,7 +25,7 @@
 
 ## 💫 About Me
 
-I'm a **Deep Learning Researcher & Multimodal AI Engineer** pursuing B.Tech in CSE (AI) at Amrita Vishwa Vidyapeetham (2023–2027), with an IEEE-published paper in clinical ML at ICOCT 2025. I build production AI systems at the intersection of **Vision Transformers, Medical Imaging, and Multi-LLM Routing** — including Jarvis, a 7-model autonomous assistant with real-time voice, vision, and sub-10ms RAG retrieval. Currently deepening my expertise in self-supervised learning (DINO/DINOv2), Vision-Language Models, and scalable multimodal AI architectures.
+I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at Amrita Vishwa Vidyapeetham (2023–2027), with an IEEE-published paper in clinical ML at ICOCT 2025. I design and ship production AI systems spanning **Computer Vision, Medical Imaging, and Multi-LLM Routing** — including Jarvis, a 7-model autonomous assistant with real-time voice, vision, and sub-10ms RAG retrieval. Passionate about pushing the boundaries of Vision Transformers, self-supervised learning (DINO/DINOv2), and scalable Vision-Language Models.
 
 ---
 
@@ -175,7 +175,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 | 🧠 | Oracle Generative AI Professional | Oracle | 2025 |
 | 🗄️ | Oracle MySQL 8.0 Database Developer | Oracle | 2025 |
 | 🏆 | Top 5 Finalist — AI Hackathon | VR Siddhartha Engineering College | 2025 |
-| 🌟 | Infosys Springboard Internship 7.0 | Infosys | 2025 |
+| 🌟 | Infosys Springboard Internship 7.0 | Infosys | 2026 |
 
 ---
 
