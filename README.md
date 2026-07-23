@@ -70,7 +70,7 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Jarvis)
 
 ---
 
@@ -85,7 +85,7 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square)
 ![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Automation-Video-Generator)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator)
 
 ---
 
@@ -105,7 +105,7 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 ![Swin](https://img.shields.io/badge/Swin_Transformer-0284C7?style=flat-square)
 ![ConvNeXt](https://img.shields.io/badge/ConvNeXt-059669?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble)
 
 ---
 
@@ -118,7 +118,7 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Liver-Disease-Diagnosis)
 
 ---
 
