@@ -117,7 +117,7 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square)
 ![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Automation-Video-Generator)
 
 ---
 
