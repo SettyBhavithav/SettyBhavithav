@@ -3,9 +3,6 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=180&section=header&text=Setty%20Bhavithav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20Multimodal%20AI&descSize=16&descAlignY=65"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&multiline=false&width=600&lines=🔬+IEEE+Published+Researcher+%7C+ICOCT+2025;🤖+Creator+of+Jarvis+%E2%80%94+7-Model+AI+Assistant;🧠+Vision+Transformers+%7C+Medical+AI+%7C+RAG;☁️+AWS+%7C+Azure+AI+%7C+Oracle+Certified" alt="Typing SVG" />
-
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
@@ -28,18 +25,7 @@
 
 ## 💫 About Me
 
-```python
-class SettyBhavithav:
-    def __init__(self):
-        self.name        = "Setty Bhavithav"
-        self.role        = "Deep Learning Researcher & Multimodal AI Engineer"
-        self.university  = "Amrita Vishwa Vidyapeetham (B.Tech CSE AI, 2023–2027)"
-        self.research    = ["Vision Transformers", "Medical Imaging AI", "Multimodal RAG"]
-        self.building    = "Jarvis — 7-model autonomous AI assistant with sub-10ms RAG retrieval"
-        self.learning    = ["DINO/DINOv2", "Vision-Language Models", "Distributed Training"]
-        self.ask_me      = ["PyTorch", "ViT", "OpenCV", "Multi-LLM Routing", "RAG Pipelines"]
-        self.fun_fact    = "I fused 7 AI models + voice + vision into one autonomous assistant 🤖"
-```
+I'm a **Deep Learning Researcher & Multimodal AI Engineer** pursuing B.Tech in CSE (AI) at Amrita Vishwa Vidyapeetham (2023–2027), with an IEEE-published paper in clinical ML at ICOCT 2025. I build production AI systems at the intersection of **Vision Transformers, Medical Imaging, and Multi-LLM Routing** — including Jarvis, a 7-model autonomous assistant with real-time voice, vision, and sub-10ms RAG retrieval. Currently deepening my expertise in self-supervised learning (DINO/DINOv2), Vision-Language Models, and scalable multimodal AI architectures.
 
 ---
 
