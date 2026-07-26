@@ -184,7 +184,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true&v=20260727" width="70%"/>
 
 <br/>
 
