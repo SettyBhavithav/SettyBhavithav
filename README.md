@@ -181,23 +181,9 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true&v=20260727" width="70%"/>
-
-<br/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SettyBhavithav&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SettyBhavithav&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<br/><br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=SettyBhavithav&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-**_"Advancing Deep Learning, Vision Transformers & Multimodal Autonomous AI"_**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:4F46E5&height=100&section=footer"/>
-
 </div>
