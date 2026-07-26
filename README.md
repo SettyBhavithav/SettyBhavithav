@@ -184,7 +184,25 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SettyBhavithav&theme=tokyonight&hide_border=true&v=20260727" width="70%"/>
+<table style="border: 2px solid #2ac3de; background-color: #1a1b26; border-radius: 12px; padding: 15px;">
+  <tr>
+    <td align="center" width="220" style="border: none; padding: 15px;">
+      <h2 style="color: #7aa2f7; margin: 0; font-size: 36px; font-weight: bold;">1,009</h2>
+      <p style="color: #a9b1d6; margin: 5px 0 0 0; font-size: 14px; font-weight: 600;">Total Contributions</p>
+      <p style="color: #565f89; margin: 2px 0 0 0; font-size: 11px;">June 2025 – Present</p>
+    </td>
+    <td align="center" width="220" style="border: none; padding: 15px; border-left: 2px solid #2ac3de; border-right: 2px solid #2ac3de;">
+      <h2 style="color: #bb9af7; margin: 0; font-size: 36px; font-weight: bold;">⚡ 32</h2>
+      <p style="color: #a9b1d6; margin: 5px 0 0 0; font-size: 14px; font-weight: 600;">Current Streak</p>
+      <p style="color: #565f89; margin: 2px 0 0 0; font-size: 11px;">June 25 – July 26</p>
+    </td>
+    <td align="center" width="220" style="border: none; padding: 15px;">
+      <h2 style="color: #7dcfff; margin: 0; font-size: 36px; font-weight: bold;">🔥 43</h2>
+      <p style="color: #a9b1d6; margin: 5px 0 0 0; font-size: 14px; font-weight: 600;">Longest Streak</p>
+      <p style="color: #565f89; margin: 2px 0 0 0; font-size: 11px;">May 13 – June 24</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
