@@ -1,10 +1,11 @@
+```markdown
 <div align="center">
 
 <!-- ============================================================ -->
 <!--                         HERO SECTION                         -->
 <!-- ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:111827,65:4F46E5,100:06B6D4&height=230&section=header&text=Setty%20Bhavithav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Upcoming%20Researcher&descSize=18&descAlignY=63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,30:111827,65:4F46E5,100:06B6D4&height=230&section=header&text=Setty%20Bhavithav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Upcoming%20Researcher&descSize=18&descAlignY=63"/>
 
 <br/>
 
@@ -21,28 +22,49 @@ Building intelligent systems across
 
 <br/>
 
+<!-- ============================================================ -->
+<!--                     SOCIAL ICONS                             -->
+<!-- ============================================================ -->
+
 <a href="https://my-portfolio-five-murex-93.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="58"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="58"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:settybhavithav@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="58"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/setty_bhavithav">
-<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+<img src="https://skillicons.dev/icons?i=discord" width="58"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/🎯%20Medical%20AI-90.07%25%20Accuracy-7C3AED?style=flat-square&labelColor=111827"/>
+<!-- ============================================================ -->
+<!--                    PROFILE HIGHLIGHTS                        -->
+<!-- ============================================================ -->
+
+<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=for-the-badge&labelColor=111827"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=for-the-badge&labelColor=111827"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆%20AI%20Hackathon-Top%205%20Finalist-D97706?style=for-the-badge&labelColor=111827"/>
+
+<br/><br/>
+
+<code>AI/ML</code>
+&nbsp;•&nbsp;
+<code>Computer Vision</code>
+&nbsp;•&nbsp;
+<code>Medical AI</code>
+&nbsp;•&nbsp;
+<code>Multimodal AI</code>
+&nbsp;•&nbsp;
+<code>Autonomous Agents</code>
 
 </div>
 
@@ -148,8 +170,15 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/NVIDIA%20NIM-111827?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+<img src="https://img.shields.io/badge/Faster--Whisper-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edge--TTS-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+
+<br/><br/>
+
 <a href="https://github.com/SettyBhavithav/Jarvis">
-<img src="https://img.shields.io/badge/⌘%20View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -176,7 +205,7 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator">
-<img src="https://img.shields.io/badge/⌘%20View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -220,7 +249,7 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble">
-<img src="https://img.shields.io/badge/⌘%20View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -240,7 +269,7 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Liver-Disease-Diagnosis">
-<img src="https://img.shields.io/badge/⌘%20View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -264,7 +293,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier">
-<img src="https://img.shields.io/badge/⌘%20View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -277,7 +306,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,bash" />
 
 </div>
 
@@ -353,7 +382,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <table>
 <tr>
-<th> </th>
+<th></th>
 <th>Certification / Achievement</th>
 <th>Issuer</th>
 </tr>
@@ -419,26 +448,34 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 <div align="center">
 
 <a href="https://my-portfolio-five-murex-93.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="60"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="65"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:settybhavithav@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.gg/setty_bhavithav">
-<img src="https://skillicons.dev/icons?i=discord" width="60"/>
+<img src="https://skillicons.dev/icons?i=discord" width="65"/>
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Portfolio • LinkedIn • Email • Discord</sub>
 
 </div>
 
@@ -454,6 +491,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:4F46E5,100:0B1020&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:4F46E5,100:070B14&height=130&section=footer"/>
 
 </div>
+```
