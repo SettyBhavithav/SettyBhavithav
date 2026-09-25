@@ -73,7 +73,7 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 </p>
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy,seaborn,xgboost,jupyter&titles=true&theme=dark&perline=4" alt="SciPy Seaborn XGBoost Jupyter">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy,seaborn,xgboost,jupyter&titles=true&theme=dark&perline=4" alt="SciPy Seaborn Jupyter">
 </p>
 
 ---
