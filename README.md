@@ -213,22 +213,21 @@ The final pipeline combines classification, ROC-AUC, F1, precision-recall and st
 
 
 <details open>
-
-<summary><strong>🎮 5 · AI Hand Gesture Gaming — Maze Solver</strong></summary>
-
-> `🏆 Top 5 Hackathon` | VR Siddhartha Engineering College 2025
-
-Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-controlled maze navigation with no keyboard or mouse. **Top 5 Finalist** out of all competing teams.
-
 ### 🔗 Project Stack
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,python&titles=true&theme=dark&perline=2" alt="OpenCV Python">
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python" width="58" height="58" alt="Python">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" width="58" height="58" alt="MediaPipe">
+
+<br>
+
+<b>Python</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>MediaPipe</b>
-</p>
+
+</div>
 
 ### 🔄 End-to-End
 
@@ -240,8 +239,6 @@ The complete interaction runs through gesture input and navigation without requi
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier)
 
 ---
-
-</details>
 
 ---
 
