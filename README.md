@@ -2,53 +2,55 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:111827,68:4F46E5,100:06B6D4&height=220&section=header&text=Setty%20Bhavithav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Upcoming%20Researcher&descSize=18&descAlignY=63"/>
 
-<br>
+<br/><br/>
+
+<!-- ========================= CONNECT ========================= -->
 
 <p align="center">
-
+<span>
 <a href="https://my-portfolio-five-murex-93.vercel.app/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" width="42" height="42" alt="Portfolio">
+<img src="https://skillicons.dev/icons?i=vercel" width="46" height="46" alt="Portfolio">
 </a>
-
+<br><sub><b>Portfolio</b></sub>
+</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<span>
 <a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="42" height="42" alt="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn">
 </a>
-
+<br><sub><b>LinkedIn</b></sub>
+</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<span>
 <a href="mailto:settybhavithav@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg" width="42" height="42" alt="Email">
+<img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email">
 </a>
-
+<br><sub><b>Email</b></sub>
+</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<span>
 <a href="https://discord.gg/setty_bhavithav">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/discord.svg" width="42" height="42" alt="Discord">
+<img src="https://skillicons.dev/icons?i=discord" width="46" height="46" alt="Discord">
 </a>
-
+<br><sub><b>Discord</b></sub>
+</span>
 </p>
 
-<br>
+<br/>
+
+<!-- ========================= HIGHLIGHTS ========================= -->
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827">
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 <img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827">
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 <img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827">
-
 </p>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -99,98 +101,25 @@ ROC-AUC · F1-Score · Precision-Recall · McNemar's Significance Test
 **🎯 Impact**  
 Clinically actionable automated liver disease diagnosis on real patient data
 
-<br>
+<br/>
 
-<div align="center">
+### 🔬 Research Stack
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Python">
-<br>
-<b>Python</b>
-</a>
-
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python"><br><sub><b>Python</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/scikitlearn.svg" width="48" height="48" alt="Scikit-Learn">
-<br>
-<b>Scikit-Learn</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/scikitlearn" width="46" height="46" alt="Scikit-Learn"><br><sub><b>Scikit-Learn</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pandas.svg" width="48" height="48" alt="Pandas">
-<br>
-<b>Pandas</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/pandas" width="46" height="46" alt="Pandas"><br><sub><b>Pandas</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/numpy.svg" width="48" height="48" alt="NumPy">
-<br>
-<b>NumPy</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/numpy" width="46" height="46" alt="NumPy"><br><sub><b>NumPy</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib">
-<br>
-<b>Matplotlib</b>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/scipy.svg" width="48" height="48" alt="SciPy">
-<br>
-<b>SciPy</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/seaborn.svg" width="48" height="48" alt="Seaborn">
-<br>
-<b>Seaborn</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/xgboost.svg" width="48" height="48" alt="XGBoost">
-<br>
-<b>XGBoost</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jupyter.svg" width="48" height="48" alt="Jupyter">
-<br>
-<b>Jupyter</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Imbalanced-Learn">
-<br>
-<b>Imbalanced-Learn</b>
-</a>
-
-</div>
+<span><img src="https://cdn.simpleicons.org/matplotlib" width="46" height="46" alt="Matplotlib"><br><sub><b>Matplotlib</b></sub></span>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-
 
 <details open>
 
@@ -200,58 +129,41 @@ Clinically actionable automated liver disease diagnosis on real patient data
 
 Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**, Faster-Whisper STT, Edge-TTS, and multi-model reasoning. Async 4-thread pipeline with wake-word detection, long-term RAG memory, and Discord integration.
 
-<br>
+<br/>
 
 <div align="center">
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Python">
-<br>
-<b>Python</b>
-</a>
+<p>
+⚡ RAG Speed&nbsp;&nbsp;<b>Sub-10ms retrieval</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 Models&nbsp;&nbsp;<b>7 AI models integrated</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🎙️ Voice&nbsp;&nbsp;<b>Wake-word + Real-time TTS</b>
+</p>
 
+<br/>
+
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python"><br><sub><b>Python</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pytorch.svg" width="48" height="48" alt="PyTorch">
-<br>
-<b>PyTorch</b>
-</a>
-
+<span><img src="https://skillicons.dev/icons?i=pytorch" width="46" height="46" alt="PyTorch"><br><sub><b>PyTorch</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/fastapi.svg" width="48" height="48" alt="FastAPI">
-<br>
-<b>FastAPI</b>
-</a>
-
+<span><img src="https://skillicons.dev/icons?i=fastapi" width="46" height="46" alt="FastAPI"><br><sub><b>FastAPI</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nvidia.svg" width="48" height="48" alt="NVIDIA">
-<br>
-<b>NVIDIA NIM</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/nvidia/76B900/76B900" width="46" height="46" alt="NVIDIA"><br><sub><b>NVIDIA NIM</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/discord.svg" width="48" height="48" alt="Discord">
-<br>
-<b>Discord.py</b>
-</a>
+<span><img src="https://skillicons.dev/icons?i=discord" width="46" height="46" alt="Discord"><br><sub><b>Discord.py</b></sub></span>
+</p>
 
 </div>
 
-<br>
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Jarvis)
 
 ---
 
 </details>
-
 
 <details open>
 
@@ -261,58 +173,27 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script writing, TTS voiceover synthesis, automated video editing, and YouTube Data API v3 publishing. Zero manual effort.
 
-<br>
+<br/>
 
-<div align="center">
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Python">
-<br>
-<b>Python</b>
-</a>
-
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python"><br><sub><b>Python</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nvidia.svg" width="48" height="48" alt="NVIDIA">
-<br>
-<b>NVIDIA NIM</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/nvidia/76B900/76B900" width="46" height="46" alt="NVIDIA"><br><sub><b>NVIDIA NIM</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/elevenlabs.svg" width="48" height="48" alt="ElevenLabs">
-<br>
-<b>ElevenLabs</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/elevenlabs/FFFFFF/FFFFFF" width="46" height="46" alt="ElevenLabs"><br><sub><b>ElevenLabs</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/ffmpeg.svg" width="48" height="48" alt="FFmpeg">
-<br>
-<b>FFmpeg</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/ffmpeg/42A5F5/42A5F5" width="46" height="46" alt="FFmpeg"><br><sub><b>FFmpeg</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://cdn.simpleicons.org/youtube/FF0000/FF0000" width="46" height="46" alt="YouTube"><br><sub><b>YouTube API</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/youtube.svg" width="48" height="48" alt="YouTube">
-<br>
-<b>YouTube API</b>
-</a>
-
-</div>
-
-<br>
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator)
 
 ---
 
 </details>
-
 
 <details open>
 
@@ -322,58 +203,39 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 
 Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses ConvNeXt-Base, Swin Transformer & DINO ViT with custom Ordinal Regression Loss and 4-View TTA. DINO ViT ablation confirmed as dominant backbone (−8.21% on removal).
 
-<br>
+<br/>
 
-<div align="center">
+<p>
+✅ Accuracy&nbsp;&nbsp;<b>90.07%</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+📊 Cohen's Kappa&nbsp;&nbsp;<b>0.830</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🩻 X-rays&nbsp;&nbsp;<b>9,770</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+👥 Patients&nbsp;&nbsp;<b>4,656</b>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pytorch.svg" width="48" height="48" alt="PyTorch">
-<br>
-<b>PyTorch</b>
-</a>
+<br/>
 
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=pytorch" width="46" height="46" alt="PyTorch"><br><sub><b>PyTorch</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/huggingface.svg" width="48" height="48" alt="HuggingFace">
-<br>
-<b>HuggingFace</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/huggingface" width="46" height="46" alt="Hugging Face"><br><sub><b>Hugging Face</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="DINO">
-<br>
-<b>DINO ViT</b>
-</a>
-
+<span>🧬<br><sub><b>DINO ViT</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pytorch.svg" width="48" height="48" alt="Swin">
-<br>
-<b>Swin Transformer</b>
-</a>
-
+<span>🧠<br><sub><b>Swin Transformer</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>⚡<br><sub><b>ConvNeXt</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pytorch.svg" width="48" height="48" alt="ConvNeXt">
-<br>
-<b>ConvNeXt</b>
-</a>
-
-</div>
-
-<br>
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble)
 
 ---
 
 </details>
-
 
 <details open>
 
@@ -383,42 +245,23 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 
 End-to-end ML pipeline for clinical liver disease prediction — IEEE published. RFXG ensemble evaluated with ROC-AUC, F1, precision-recall, and McNemar's significance testing on real patient data.
 
-<br>
+<br/>
 
-<div align="center">
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/scikitlearn.svg" width="48" height="48" alt="Scikit-Learn">
-<br>
-<b>Scikit-Learn</b>
-</a>
-
+<p align="center">
+<span><img src="https://cdn.simpleicons.org/scikitlearn" width="46" height="46" alt="Scikit-Learn"><br><sub><b>Scikit-Learn</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pandas.svg" width="48" height="48" alt="Pandas">
-<br>
-<b>Pandas</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/pandas" width="46" height="46" alt="Pandas"><br><sub><b>Pandas</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://cdn.simpleicons.org/numpy" width="46" height="46" alt="NumPy"><br><sub><b>NumPy</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/numpy.svg" width="48" height="48" alt="NumPy">
-<br>
-<b>NumPy</b>
-</a>
-
-</div>
-
-<br>
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Liver-Disease-Diagnosis)
 
 ---
 
 </details>
-
 
 <details open>
 
@@ -428,43 +271,19 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 
 Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-controlled maze navigation with no keyboard or mouse. **Top 5 Finalist** out of all competing teams.
 
-<br>
+<br/>
 
-<div align="center">
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/elixir.svg" width="48" height="48" alt="Elixir">
-<br>
-<b>Elixir</b>
-</a>
-
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=elixir" width="46" height="46" alt="Elixir"><br><sub><b>Elixir</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/opencv.svg" width="48" height="48" alt="OpenCV">
-<br>
-<b>OpenCV</b>
-</a>
-
+<span><img src="https://skillicons.dev/icons?i=opencv" width="46" height="46" alt="OpenCV"><br><sub><b>OpenCV</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/google.svg" width="48" height="48" alt="MediaPipe">
-<br>
-<b>MediaPipe</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/mediapipe" width="46" height="46" alt="MediaPipe"><br><sub><b>MediaPipe</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python"><br><sub><b>Python</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Python">
-<br>
-<b>Python</b>
-</a>
-
-</div>
-
-<br>
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier)
 
@@ -478,176 +297,89 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 ### 🧠 Deep Learning & Computer Vision
 
-<div align="center">
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pytorch.svg" width="50" height="50" alt="PyTorch">
-<br>
-<b>PyTorch</b>
-</a>
-
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"><br><sub><b>PyTorch</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/opencv.svg" width="50" height="50" alt="OpenCV">
-<br>
-<b>OpenCV</b>
-</a>
-
+<span><img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" alt="OpenCV"><br><sub><b>OpenCV</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/huggingface.svg" width="50" height="50" alt="HuggingFace">
-<br>
-<b>HuggingFace</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/huggingface" width="50" height="50" alt="Hugging Face"><br><sub><b>Hugging Face</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tensorflow.svg" width="50" height="50" alt="TensorFlow">
-<br>
-<b>TensorFlow</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/tensorflow" width="50" height="50" alt="TensorFlow"><br><sub><b>TensorFlow</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" alt="Scikit-Learn"><br><sub><b>Scikit-Learn</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/scikitlearn.svg" width="50" height="50" alt="Scikit-Learn">
-<br>
-<b>Scikit-Learn</b>
-</a>
-
-</div>
-
-<br>
+<br/>
 
 ### 💻 Languages & Frameworks
 
-<div align="center">
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="50" height="50" alt="Python">
-<br>
-<b>Python</b>
-</a>
-
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"><br><sub><b>Python</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="50" height="50" alt="JavaScript">
-<br>
-<b>JavaScript</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/javascript/F7DF1E/F7DF1E" width="50" height="50" alt="JavaScript"><br><sub><b>JavaScript</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/typescript.svg" width="50" height="50" alt="TypeScript">
-<br>
-<b>TypeScript</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/typescript/3178C6/3178C6" width="50" height="50" alt="TypeScript"><br><sub><b>TypeScript</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/elixir.svg" width="50" height="50" alt="Elixir">
-<br>
-<b>Elixir</b>
-</a>
-
+<span><img src="https://skillicons.dev/icons?i=elixir" width="50" height="50" alt="Elixir"><br><sub><b>Elixir</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"><br><sub><b>FastAPI</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/fastapi.svg" width="50" height="50" alt="FastAPI">
-<br>
-<b>FastAPI</b>
-</a>
-
+<p align="center">
+<span><img src="https://cdn.simpleicons.org/flask/FFFFFF/FFFFFF" width="50" height="50" alt="Flask"><br><sub><b>Flask</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://cdn.simpleicons.org/react/61DAFB/61DAFB" width="50" height="50" alt="React"><br><sub><b>React</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/flask.svg" width="50" height="50" alt="Flask">
-<br>
-<b>Flask</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/react.svg" width="50" height="50" alt="React">
-<br>
-<b>React</b>
-</a>
-
-</div>
-
-<br>
+<br/>
 
 ### ☁️ Cloud & Infrastructure
 
-<div align="center">
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/amazonaws.svg" width="50" height="50" alt="AWS">
-<br>
-<b>AWS</b>
-</a>
-
+<p align="center">
+<span><img src="https://cdn.simpleicons.org/amazonaws/FF9900/FF9900" width="50" height="50" alt="AWS"><br><sub><b>AWS</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftazure.svg" width="50" height="50" alt="Azure">
-<br>
-<b>Azure</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/microsoftazure/0078D4/0078D4" width="50" height="50" alt="Azure"><br><sub><b>Azure</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg" width="50" height="50" alt="Docker">
-<br>
-<b>Docker</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/docker/2496ED/2496ED" width="50" height="50" alt="Docker"><br><sub><b>Docker</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="50" height="50" alt="MySQL">
-<br>
-<b>MySQL</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/mysql/4479A1/4479A1" width="50" height="50" alt="MySQL"><br><sub><b>MySQL</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mongodb.svg" width="50" height="50" alt="MongoDB">
-<br>
-<b>MongoDB</b>
-</a>
-
+<span><img src="https://cdn.simpleicons.org/mongodb/47A248/47A248" width="50" height="50" alt="MongoDB"><br><sub><b>MongoDB</b></sub></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://cdn.simpleicons.org/git/F05032/F05032" width="50" height="50" alt="Git"><br><sub><b>Git</b></sub></span>
+</p>
 
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="50" height="50" alt="Git">
-<br>
-<b>Git</b>
-</a>
+<br/>
 
-</div>
+### 🧪 Data Science & Research
+
+<p align="center">
+<span><img src="https://cdn.simpleicons.org/numpy/013243/013243" width="50" height="50" alt="NumPy"><br><sub><b>NumPy</b></sub></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://cdn.simpleicons.org/pandas/150458/150458" width="50" height="50" alt="Pandas"><br><sub><b>Pandas</b></sub></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://cdn.simpleicons.org/matplotlib/11557C/11557C" width="50" height="50" alt="Matplotlib"><br><sub><b>Matplotlib</b></sub></span>
+</p>
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-| | Certification | Issuer |
-|:---:|:---|:---|
-| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services |
-| 🔷 | Azure AI Engineer Associate | Microsoft |
-| 🧠 | Oracle Generative AI Professional | Oracle |
-| 🗄️ | Oracle MySQL 8.0 Database Developer | Oracle |
-| 🏆 | Top 5 Finalist — AI Hackathon | VR Siddhartha Engineering College |
-| 🌟 | Infosys Springboard Internship 7.0 | Infosys |
+<div align="center">
+
+<p>☁️ <b>AWS Certified Cloud Practitioner</b>&nbsp;&nbsp;•&nbsp;&nbsp;Amazon Web Services</p>
+
+<p>🔷 <b>Azure AI Engineer Associate</b>&nbsp;&nbsp;•&nbsp;&nbsp;Microsoft</p>
+
+<p>🧠 <b>Oracle Generative AI Professional</b>&nbsp;&nbsp;•&nbsp;&nbsp;Oracle</p>
+
+<p>🗄️ <b>Oracle MySQL 8.0 Database Developer</b>&nbsp;&nbsp;•&nbsp;&nbsp;Oracle</p>
+
+<p>🏆 <b>Top 5 Finalist — AI Hackathon</b>&nbsp;&nbsp;•&nbsp;&nbsp;VR Siddhartha Engineering College</p>
+
+<p>🌟 <b>Infosys Springboard Internship 7.0</b>&nbsp;&nbsp;•&nbsp;&nbsp;Infosys</p>
+
+</div>
 
 ---
 
@@ -657,11 +389,11 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 > **GitHub activity & profile signals**
 
-<br>
+<br/>
 
 <img src="./github_streak_stats.svg" width="70%"/>
 
-<br><br>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SettyBhavithav&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS)
 
