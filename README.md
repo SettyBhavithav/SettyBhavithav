@@ -6,9 +6,9 @@
 
 <!-- ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,30:111827,65:4F46E5,100:06B6D4&height=230&section=header&text=Setty%20Bhavithav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Upcoming%20Researcher&descSize=18&descAlignY=63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,25:111827,60:4F46E5,100:06B6D4&height=230&section=header&text=Setty%20Bhavithav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Upcoming%20Researcher&descSize=18&descAlignY=64"/>
 
-<br/>
+<br/><br/>
 
 <h2>AI/ML Engineer • Researcher • Builder</h2>
 
@@ -25,73 +25,97 @@ Building intelligent systems across
 
 <!-- ============================================================ -->
 
-<!--                      SOCIAL ICONS                            -->
+<!--                    CONNECT ICONS                             -->
 
 <!-- ============================================================ -->
 
+<table>
+<tr>
+
+<td align="center" width="100">
 <a href="https://my-portfolio-five-murex-93.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="58"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="58" height="58"/>
 </a>
+<br/>
+<sub><b>Portfolio</b></sub>
+</td>
 
-   
+<td width="28"></td>
 
+<td align="center" width="100">
 <a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="58"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58"/>
 </a>
+<br/>
+<sub><b>LinkedIn</b></sub>
+</td>
 
-   
+<td width="28"></td>
 
+<td align="center" width="100">
 <a href="mailto:settybhavithav@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="58"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="58" height="58"/>
 </a>
+<br/>
+<sub><b>Email</b></sub>
+</td>
 
-   
+<td width="28"></td>
 
+<td align="center" width="100">
 <a href="https://discord.gg/setty_bhavithav">
-<img src="https://skillicons.dev/icons?i=discord" width="58"/>
+<img src="https://skillicons.dev/icons?i=discord" width="58" height="58"/>
 </a>
+<br/>
+<sub><b>Discord</b></sub>
+</td>
 
-<br/><br/>
+</tr>
+</table>
+
+<br/>
 
 <!-- ============================================================ -->
 
-<!--                   PROFILE HIGHLIGHTS                         -->
+<!--                    PROFILE HIGHLIGHTS                        -->
 
 <!-- ============================================================ -->
 
+<table>
+<tr>
+
+<td align="center">
 <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=for-the-badge&labelColor=111827"/>
+</td>
 
- 
+<td width="14"></td>
 
+<td align="center">
 <img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=for-the-badge&labelColor=111827"/>
+</td>
 
- 
+<td width="14"></td>
 
-<img src="https://img.shields.io/badge/🏆%20AI%20Hackathon-Top%205%20Finalist-D97706?style=for-the-badge&labelColor=111827"/>
+<td align="center">
+<img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=for-the-badge&labelColor=111827"/>
+</td>
 
-<br/><br/>
+</tr>
+</table>
 
+<br/>
+
+<p>
 <code>AI/ML</code>
- •  <code>Computer Vision</code>
- •  <code>Medical AI</code>
- •  <code>Multimodal AI</code>
- •  <code>Autonomous Agents</code>
-
-</div>
-
----
-
-<div align="center">
-
-### 🧭 PROFILE NAVIGATION
-
-<a href="#-about-me">About</a>
- •  <a href="#-research--publication">Research</a>
- •  <a href="#-featured-projects">Projects</a>
- •  <a href="#-tech-stack">Tech Stack</a>
- •  <a href="#-certifications--achievements">Achievements</a>
- •  <a href="#-github-stats">GitHub</a>
- •  <a href="#-connect-with-me">Connect</a>
+&nbsp;•&nbsp;
+<code>Computer Vision</code>
+&nbsp;•&nbsp;
+<code>Medical AI</code>
+&nbsp;•&nbsp;
+<code>Multimodal AI</code>
+&nbsp;•&nbsp;
+<code>Autonomous Agents</code>
+</p>
 
 </div>
 
@@ -103,40 +127,207 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 
 ---
 
-# 🔬 Research & Publication
+# 🧬 Research & Publication
 
 <div align="center">
 
+<h2>Liver Disease Diagnosis using RFXG Classifier</h2>
+
+<p>
+<b>IEEE ICOCT 2025</b> • Clinical Machine Learning • Ensemble Learning
+</p>
+
+<br/>
+
+<!-- ============================================================ -->
+
+<!--                     RESEARCH OVERVIEW                        -->
+
+<!-- ============================================================ -->
+
+<table>
+
+<tr>
+<td align="center" width="180">
+<b>📄 Publication</b>
+</td>
+<td align="left">
+<b>IEEE ICOCT 2025</b> — International Conference on Cloud and Technology
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🎯 Objective</b>
+</td>
+<td align="left">
+Automated liver disease diagnosis using machine learning on clinical patient data.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🧠 Proposed Model</b>
+</td>
+<td align="left">
+<b>RFXG Classifier</b> — ensemble approach combining Random Forest and XGBoost.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>⚙️ Methodology</b>
+</td>
+<td align="left">
+Data preprocessing → Feature engineering → Ensemble learning → Model evaluation → Statistical validation
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>📊 Evaluation</b>
+</td>
+<td align="left">
+ROC-AUC • F1-Score • Precision • Recall • Precision-Recall Analysis
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🔬 Statistical Validation</b>
+</td>
+<td align="left">
+McNemar's Significance Test for comparative model evaluation.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🏥 Application</b>
+</td>
+<td align="left">
+Clinical decision-support research for automated liver disease diagnosis.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🧪 Research Domain</b>
+</td>
+<td align="left">
+Machine Learning • Clinical AI • Ensemble Learning • Healthcare AI
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>📌 Research Focus</b>
+</td>
+<td align="left">
+Reliable machine learning evaluation and statistically validated clinical prediction.
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+
+<!--                     RESEARCH STACK                           -->
+
+<!-- ============================================================ -->
+
+<h3>🔧 Research Stack</h3>
+
 <table>
 <tr>
-<td width="180"><b>📄 Title</b></td>
-<td>Liver Disease Diagnosis using RFXG Classifier</td>
-</tr>
 
-<tr>
-<td><b>🏛️ Venue</b></td>
-<td><b>IEEE ICOCT 2025</b> — International Conference on Cloud and Technology</td>
-</tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="64" height="64"/>
+<br/>
+<sub><b>Python</b></sub>
+</td>
 
-<tr>
-<td><b>🔬 Method</b></td>
-<td>RFXG Ensemble Classifier with ROC-AUC statistical testing & feature engineering</td>
-</tr>
+<td width="40"></td>
 
-<tr>
-<td><b>📊 Evaluation</b></td>
-<td>ROC-AUC · F1-Score · Precision-Recall · McNemar's Significance Test</td>
-</tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=sklearn" width="64" height="64"/>
+<br/>
+<sub><b>Scikit-learn</b></sub>
+</td>
 
-<tr>
-<td><b>🎯 Impact</b></td>
-<td>Clinically actionable automated liver disease diagnosis on real patient data</td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy" />
+<!-- ============================================================ -->
+
+<!--                  RESEARCH PIPELINE                           -->
+
+<!-- ============================================================ -->
+
+<h3>🔬 Research Pipeline</h3>
+
+<table>
+<tr>
+
+<td align="center">
+<b>01</b><br/>
+📥<br/>
+<sub>Clinical Data</sub>
+</td>
+
+<td width="20">→</td>
+
+<td align="center">
+<b>02</b><br/>
+⚙️<br/>
+<sub>Preprocessing</sub>
+</td>
+
+<td width="20">→</td>
+
+<td align="center">
+<b>03</b><br/>
+🧬<br/>
+<sub>Feature Engineering</sub>
+</td>
+
+<td width="20">→</td>
+
+<td align="center">
+<b>04</b><br/>
+🧠<br/>
+<sub>RFXG Ensemble</sub>
+</td>
+
+<td width="20">→</td>
+
+<td align="center">
+<b>05</b><br/>
+📊<br/>
+<sub>Evaluation</sub>
+</td>
+
+<td width="20">→</td>
+
+<td align="center">
+<b>06</b><br/>
+🔬<br/>
+<sub>Statistical Validation</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ROC--AUC-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/F1--Score-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Precision--Recall-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/McNemar's%20Test-D97706?style=for-the-badge"/>
 
 </div>
 
@@ -144,7 +335,7 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 
 # 🚀 Featured Projects
 
-## 🤖 1 · Jarvis — Autonomous Multi-Modal AI Assistant
+## 🤖 01 · Jarvis — Autonomous Multi-Modal AI Assistant
 
 > `Production AI` | **7 AI Models** | Sub-10ms RAG | Real-time Voice + Vision
 
@@ -154,18 +345,29 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 <table>
 <tr>
-<td><b>⚡ RAG Speed</b></td>
-<td><b>Sub-10ms retrieval</b></td>
-</tr>
 
-<tr>
-<td><b>🧠 Models</b></td>
-<td><b>7 AI models integrated</b></td>
-</tr>
+<td align="center">
+⚡<br/>
+<b>RAG Speed</b><br/>
+<sub>Sub-10ms retrieval</sub>
+</td>
 
-<tr>
-<td><b>🎙️ Voice</b></td>
-<td><b>Wake-word + Real-time TTS</b></td>
+<td width="35"></td>
+
+<td align="center">
+🧠<br/>
+<b>Models</b><br/>
+<sub>7 AI models integrated</sub>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+🎙️<br/>
+<b>Voice</b><br/>
+<sub>Wake-word + Real-time TTS</sub>
+</td>
+
 </tr>
 </table>
 
@@ -183,14 +385,14 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Jarvis">
-<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🎬 2 · YouTube Shorts Automation
+## 🎬 02 · YouTube Shorts Automation
 
 > `AI Automation` | LLM Script → TTS → Video → Auto-Upload
 
@@ -210,14 +412,14 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator">
-<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🩺 3 · Knee OA Medical ViT Ensemble Diagnostic Pipeline
+## 🩺 03 · Knee OA Medical ViT Ensemble Diagnostic Pipeline
 
 > `Research AI` | **90.07% Accuracy** | **0.830 Cohen's Kappa** | Q1 Journal Standards
 
@@ -227,17 +429,33 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 
 <table>
 <tr>
-<td><b>✅ Accuracy</b></td>
-<td><b>90.07%</b></td>
-<td><b>📊 Cohen's Kappa</b></td>
-<td><b>0.830</b></td>
-</tr>
 
-<tr>
-<td><b>🩻 X-rays</b></td>
-<td><b>9,770</b></td>
-<td><b>👥 Patients</b></td>
-<td><b>4,656</b></td>
+<td align="center">
+<b>90.07%</b><br/>
+<sub>Accuracy</sub>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+<b>0.830</b><br/>
+<sub>Cohen's Kappa</sub>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+<b>9,770</b><br/>
+<sub>X-rays</sub>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+<b>4,656</b><br/>
+<sub>Patients</sub>
+</td>
+
 </tr>
 </table>
 
@@ -254,14 +472,14 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble">
-<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧪 4 · Clinical Liver Disease Diagnosis ML Pipeline
+## 🧪 04 · Clinical Liver Disease Diagnosis ML Pipeline
 
 > `IEEE Published — ICOCT 2025` | RFXG Classifier | Clinical ML
 
@@ -269,19 +487,19 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
 
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Liver-Disease-Diagnosis">
-<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🎮 5 · AI Hand Gesture Gaming — Maze Solver
+## 🎮 05 · AI Hand Gesture Gaming — Maze Solver
 
 > `🏆 Top 5 Hackathon` | VR Siddhartha Engineering College 2025
 
@@ -298,20 +516,20 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier">
-<img src="https://img.shields.io/badge/⌘%20VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 ## 🧠 Deep Learning & Computer Vision
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,huggingface,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,huggingface,tensorflow,sklearn" />
 
 <br/><br/>
 
@@ -345,13 +563,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
 
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
@@ -359,11 +571,11 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,postman,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,linux,git,github" />
 
 <br/><br/>
 
@@ -380,44 +592,45 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 <div align="center">
 
 <table>
+
 <tr>
 <th></th>
-<th>Certification</th>
+<th>Certification / Achievement</th>
 <th>Issuer</th>
 </tr>
 
 <tr>
-<td>☁️</td>
+<td align="center">☁️</td>
 <td><b>AWS Certified Cloud Practitioner</b></td>
 <td>Amazon Web Services</td>
 </tr>
 
 <tr>
-<td>🔷</td>
+<td align="center">🔷</td>
 <td><b>Azure AI Engineer Associate</b></td>
 <td>Microsoft</td>
 </tr>
 
 <tr>
-<td>🧠</td>
+<td align="center">🧠</td>
 <td><b>Oracle Generative AI Professional</b></td>
 <td>Oracle</td>
 </tr>
 
 <tr>
-<td>🗄️</td>
+<td align="center">🗄️</td>
 <td><b>Oracle MySQL 8.0 Database Developer</b></td>
 <td>Oracle</td>
 </tr>
 
 <tr>
-<td>🏆</td>
+<td align="center">🏆</td>
 <td><b>Top 5 Finalist — AI Hackathon</b></td>
 <td>VR Siddhartha Engineering College</td>
 </tr>
 
 <tr>
-<td>🌟</td>
+<td align="center">🌟</td>
 <td><b>Infosys Springboard Internship 7.0</b></td>
 <td>Infosys</td>
 </tr>
@@ -432,7 +645,7 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <div align="center">
 
-<img src="./github_streak_stats.svg" width="70%"/>
+<img src="./github_streak_stats.svg" width="75%"/>
 
 <br/><br/>
 
@@ -446,35 +659,55 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://my-portfolio-five-murex-93.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="65"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="55" height="55"/>
 </a>
+<br/>
+<sub>Portfolio</sub>
+</td>
 
-    
+<td width="25"></td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55"/>
 </a>
+<br/>
+<sub>LinkedIn</sub>
+</td>
 
-    
+<td width="25"></td>
 
+<td align="center">
 <a href="mailto:settybhavithav@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55" height="55"/>
 </a>
+<br/>
+<sub>Email</sub>
+</td>
 
-    
+<td width="25"></td>
 
+<td align="center">
 <a href="https://discord.gg/setty_bhavithav">
-<img src="https://skillicons.dev/icons?i=discord" width="65"/>
+<img src="https://skillicons.dev/icons?i=discord" width="55" height="55"/>
 </a>
+<br/>
+<sub>Discord</sub>
+</td>
 
-</div>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-
-<sub>Portfolio • LinkedIn • Email • Discord</sub>
+<p>
+<b>Let's build something intelligent.</b>
+</p>
 
 </div>
 
@@ -490,6 +723,6 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:4F46E5,100:070B14&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:4F46E5,100:070B14&height=120&section=footer"/>
 
 </div>
