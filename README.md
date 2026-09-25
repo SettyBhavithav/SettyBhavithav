@@ -6,48 +6,54 @@
 
 <!-- ========================= CONNECT ========================= -->
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
+<td align="center" valign="top" border="0">
 <a href="https://my-portfolio-five-murex-93.vercel.app/">
-<img src="https://www.readmecodegen.com/api/social-icon?name=vercel&size=60&theme=brand&bg=transparent&showText=true&text=Portfolio&textAlignment=vertical&textColor=ffffff" alt="Portfolio">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio">
 </a>
+<br>
+<b>Portfolio</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center" valign="top" border="0">
 <a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
-<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&theme=brand&bg=transparent&showText=true&text=LinkedIn&textAlignment=vertical&textColor=ffffff" alt="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn">
 </a>
+<br>
+<b>LinkedIn</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center" valign="top" border="0">
 <a href="mailto:settybhavithav@gmail.com">
-<img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=60&theme=brand&bg=transparent&showText=true&text=Email&textAlignment=vertical&textColor=ffffff" alt="Email">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email">
 </a>
+<br>
+<b>Email</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center" valign="top" border="0">
 <a href="https://discord.gg/setty_bhavithav">
-<img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=60&theme=brand&bg=transparent&showText=true&text=Discord&textAlignment=vertical&textColor=ffffff" alt="Discord">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord">
 </a>
+<br>
+<b>Discord</b>
+</td>
 
-</p>
+</tr>
+</table>
 
 <br/>
 
 <!-- ========================= QUICK INFO ========================= -->
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827">
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827">
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827">
-
+<p>
+  <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827" />
 </p>
 
 </div>
@@ -96,45 +102,75 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 
 ### 🧪 Research Stack
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="14">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=52&theme=brand&bg=transparent&showText=true&text=Python&textAlignment=vertical&textColor=ffffff" alt="Python">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python">
+<br>
+<b>Python</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn">
+<br>
+<b>Scikit-Learn</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=sklearn&size=52&theme=brand&bg=transparent&showText=true&text=Scikit-Learn&textAlignment=vertical&textColor=ffffff" alt="Scikit-Learn">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas">
+<br>
+<b>Pandas</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=numpy" width="50" height="50" alt="NumPy">
+<br>
+<b>NumPy</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=pandas&size=52&theme=brand&bg=transparent&showText=true&text=Pandas&textAlignment=vertical&textColor=ffffff" alt="Pandas">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=matplotlib" width="50" height="50" alt="Matplotlib">
+<br>
+<b>Matplotlib</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=numpy&size=52&theme=brand&bg=transparent&showText=true&text=NumPy&textAlignment=vertical&textColor=ffffff" alt="NumPy">
+<tr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="50" height="50" alt="SciPy">
+<br>
+<b>SciPy</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=matplotlib&size=52&theme=brand&bg=transparent&showText=true&text=Matplotlib&textAlignment=vertical&textColor=ffffff" alt="Matplotlib">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="50" height="50" alt="Seaborn">
+<br>
+<b>Seaborn</b>
+</td>
 
-</p>
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/xgboost/FF6600" width="50" height="50" alt="XGBoost">
+<br>
+<b>XGBoost</b>
+</td>
 
-<p align="center">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50" alt="Jupyter">
+<br>
+<b>Jupyter</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=scipy&size=52&theme=brand&bg=transparent&showText=true&text=SciPy&textAlignment=vertical&textColor=ffffff" alt="SciPy">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Imbalanced-Learn">
+<br>
+<b>Imbalanced-Learn</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=seaborn&size=52&theme=brand&bg=transparent&showText=true&text=Seaborn&textAlignment=vertical&textColor=ffffff" alt="Seaborn">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=xgboost&size=52&theme=brand&bg=transparent&showText=true&text=XGBoost&textAlignment=vertical&textColor=ffffff" alt="XGBoost">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=jupyter&size=52&theme=brand&bg=transparent&showText=true&text=Jupyter&textAlignment=vertical&textColor=ffffff" alt="Jupyter">
-
-</p>
+</tr>
+</table>
 
 ---
 
@@ -159,29 +195,43 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 ### 🔗 Project Stack
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=48&theme=brand&bg=transparent&showText=true&text=Python&textAlignment=vertical&textColor=ffffff" alt="Python">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=48&theme=brand&bg=transparent&showText=true&text=PyTorch&textAlignment=vertical&textColor=ffffff" alt="PyTorch">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=48&theme=brand&bg=transparent&showText=true&text=FastAPI&textAlignment=vertical&textColor=ffffff" alt="FastAPI">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=nvidia&size=48&theme=brand&bg=transparent&showText=true&text=NVIDIA%20NIM&textAlignment=vertical&textColor=ffffff" alt="NVIDIA NIM">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=48&theme=brand&bg=transparent&showText=true&text=Discord.py&textAlignment=vertical&textColor=ffffff" alt="Discord.py">
-
-</p>
-
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python">
 <br>
+<b>Python</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch">
+<br>
+<b>PyTorch</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI">
+<br>
+<b>FastAPI</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA">
+<br>
+<b>NVIDIA NIM</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord">
+<br>
+<b>Discord.py</b>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Jarvis)
 
@@ -200,29 +250,43 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 
 ### 🔗 Project Stack
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=48&theme=brand&bg=transparent&showText=true&text=Python&textAlignment=vertical&textColor=ffffff" alt="Python">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=nvidia&size=48&theme=brand&bg=transparent&showText=true&text=NVIDIA%20NIM&textAlignment=vertical&textColor=ffffff" alt="NVIDIA NIM">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=elevenlabs&size=48&theme=brand&bg=transparent&showText=true&text=ElevenLabs&textAlignment=vertical&textColor=ffffff" alt="ElevenLabs">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=ffmpeg&size=48&theme=brand&bg=transparent&showText=true&text=FFmpeg&textAlignment=vertical&textColor=ffffff" alt="FFmpeg">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=youtube&size=48&theme=brand&bg=transparent&showText=true&text=YouTube%20API&textAlignment=vertical&textColor=ffffff" alt="YouTube API">
-
-</p>
-
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python">
 <br>
+<b>Python</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA">
+<br>
+<b>NVIDIA NIM</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/elevenlabs/FFFFFF" width="48" height="48" alt="ElevenLabs">
+<br>
+<b>ElevenLabs</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/ffmpeg/42A5F5" width="48" height="48" alt="FFmpeg">
+<br>
+<b>FFmpeg</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" alt="YouTube">
+<br>
+<b>YouTube API</b>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator)
 
@@ -246,29 +310,43 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 
 ### 🔗 Project Stack
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=48&theme=brand&bg=transparent&showText=true&text=PyTorch&textAlignment=vertical&textColor=ffffff" alt="PyTorch">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=huggingface&size=48&theme=brand&bg=transparent&showText=true&text=HuggingFace&textAlignment=vertical&textColor=ffffff" alt="HuggingFace">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=48&theme=brand&bg=transparent&showText=true&text=DINO%20ViT&textAlignment=vertical&textColor=ffffff" alt="DINO ViT">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=48&theme=brand&bg=transparent&showText=true&text=Swin%20Transformer&textAlignment=vertical&textColor=ffffff" alt="Swin Transformer">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=48&theme=brand&bg=transparent&showText=true&text=ConvNeXt&textAlignment=vertical&textColor=ffffff" alt="ConvNeXt">
-
-</p>
-
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch">
 <br>
+<b>PyTorch</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face">
+<br>
+<b>HuggingFace</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="DINO">
+<br>
+<b>DINO ViT</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="Swin Transformer">
+<br>
+<b>Swin Transformer</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="ConvNeXt">
+<br>
+<b>ConvNeXt</b>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble)
 
@@ -287,21 +365,31 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 
 ### 🔗 Project Stack
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=sklearn&size=48&theme=brand&bg=transparent&showText=true&text=Scikit-Learn&textAlignment=vertical&textColor=ffffff" alt="Scikit-Learn">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=pandas&size=48&theme=brand&bg=transparent&showText=true&text=Pandas&textAlignment=vertical&textColor=ffffff" alt="Pandas">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=numpy&size=48&theme=brand&bg=transparent&showText=true&text=NumPy&textAlignment=vertical&textColor=ffffff" alt="NumPy">
-
-</p>
-
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn">
 <br>
+<b>Scikit-Learn</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas">
+<br>
+<b>Pandas</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy">
+<br>
+<b>NumPy</b>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/Liver-Disease-Diagnosis)
 
@@ -320,25 +408,37 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 ### 🔗 Project Stack
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=elixir&size=48&theme=brand&bg=transparent&showText=true&text=Elixir&textAlignment=vertical&textColor=ffffff" alt="Elixir">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=opencv&size=48&theme=brand&bg=transparent&showText=true&text=OpenCV&textAlignment=vertical&textColor=ffffff" alt="OpenCV">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=mediapipe&size=48&theme=brand&bg=transparent&showText=true&text=MediaPipe&textAlignment=vertical&textColor=ffffff" alt="MediaPipe">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=48&theme=brand&bg=transparent&showText=true&text=Python&textAlignment=vertical&textColor=ffffff" alt="Python">
-
-</p>
-
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=elixir" width="48" height="48" alt="Elixir">
 <br>
+<b>Elixir</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV">
+<br>
+<b>OpenCV</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="48" height="48" alt="MediaPipe">
+<br>
+<b>MediaPipe</b>
+</td>
+
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python">
+<br>
+<b>Python</b>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier)
 
@@ -352,93 +452,139 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 ### 🧠 Deep Learning & Computer Vision
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=52&theme=brand&bg=transparent&showText=true&text=PyTorch&textAlignment=vertical&textColor=ffffff" alt="PyTorch">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch">
+<br>
+<b>PyTorch</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" alt="OpenCV">
+<br>
+<b>OpenCV</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=opencv&size=52&theme=brand&bg=transparent&showText=true&text=OpenCV&textAlignment=vertical&textColor=ffffff" alt="OpenCV">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="HuggingFace">
+<br>
+<b>HuggingFace</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="50" height="50" alt="TensorFlow">
+<br>
+<b>TensorFlow</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=huggingface&size=52&theme=brand&bg=transparent&showText=true&text=HuggingFace&textAlignment=vertical&textColor=ffffff" alt="HuggingFace">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn">
+<br>
+<b>Scikit-Learn</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=52&theme=brand&bg=transparent&showText=true&text=TensorFlow&textAlignment=vertical&textColor=ffffff" alt="TensorFlow">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=sklearn&size=52&theme=brand&bg=transparent&showText=true&text=Scikit-Learn&textAlignment=vertical&textColor=ffffff" alt="Scikit-Learn">
-
-</p>
-
-<br/>
+</tr>
+</table>
 
 ### 💻 Languages & Frameworks
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=52&theme=brand&bg=transparent&showText=true&text=Python&textAlignment=vertical&textColor=ffffff" alt="Python">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python">
+<br>
+<b>Python</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript">
+<br>
+<b>JavaScript</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=52&theme=brand&bg=transparent&showText=true&text=JavaScript&textAlignment=vertical&textColor=ffffff" alt="JavaScript">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" alt="TypeScript">
+<br>
+<b>TypeScript</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=elixir" width="50" height="50" alt="Elixir">
+<br>
+<b>Elixir</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=52&theme=brand&bg=transparent&showText=true&text=TypeScript&textAlignment=vertical&textColor=ffffff" alt="TypeScript">
+<td align="center" valign="top" border="0">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI">
+<br>
+<b>FastAPI</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=elixir&size=52&theme=brand&bg=transparent&showText=true&text=Elixir&textAlignment=vertical&textColor=ffffff" alt="Elixir">
+<tr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/flask/FFFFFF" width="50" height="50" alt="Flask">
+<br>
+<b>Flask</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=52&theme=brand&bg=transparent&showText=true&text=FastAPI&textAlignment=vertical&textColor=ffffff" alt="FastAPI">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React">
+<br>
+<b>React</b>
+</td>
 
-</p>
-
-<p align="center">
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=flask&size=52&theme=brand&bg=transparent&showText=true&text=Flask&textAlignment=vertical&textColor=ffffff" alt="Flask">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=react&size=52&theme=brand&bg=transparent&showText=true&text=React&textAlignment=vertical&textColor=ffffff" alt="React">
-
-</p>
-
-<br/>
+</tr>
+</table>
 
 ### ☁️ Cloud & Infrastructure
 
-<p align="center">
+<table align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="12">
+<tr>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=aws&size=52&theme=brand&bg=transparent&showText=true&text=AWS&textAlignment=vertical&textColor=ffffff" alt="AWS">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS">
+<br>
+<b>AWS</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" height="50" alt="Azure">
+<br>
+<b>Azure</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=microsoftazure&size=52&theme=brand&bg=transparent&showText=true&text=Azure&textAlignment=vertical&textColor=ffffff" alt="Azure">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker">
+<br>
+<b>Docker</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL">
+<br>
+<b>MySQL</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=52&theme=brand&bg=transparent&showText=true&text=Docker&textAlignment=vertical&textColor=ffffff" alt="Docker">
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" height="50" alt="MongoDB">
+<br>
+<b>MongoDB</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" valign="top" border="0">
+<img src="https://cdn.simpleicons.org/git/F05032" width="50" height="50" alt="Git">
+<br>
+<b>Git</b>
+</td>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=52&theme=brand&bg=transparent&showText=true&text=MySQL&textAlignment=vertical&textColor=ffffff" alt="MySQL">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=52&theme=brand&bg=transparent&showText=true&text=MongoDB&textAlignment=vertical&textColor=ffffff" alt="MongoDB">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=52&theme=brand&bg=transparent&showText=true&text=Git&textAlignment=vertical&textColor=ffffff" alt="Git">
-
-</p>
+</tr>
+</table>
 
 ---
 
@@ -464,7 +610,6 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 <div align="center">
 
 > **GitHub activity & profile signals**
-
 
 <img src="./github_streak_stats.svg" width="70%"/>
 
