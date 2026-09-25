@@ -68,11 +68,15 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 
 ### 🧪 Research Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pandas,numpy,matplotlib,scipy,seaborn,jupyter&titles=true&theme=dark&perline=4" alt="Python Scikit-Learn Pandas NumPy Matplotlib SciPy Seaborn Jupyter">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pandas,numpy&titles=true&theme=dark&perline=4" alt="Python Scikit-Learn Pandas NumPy">
 
-</p>
+<br/><br/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,scipy,seaborn,jupyter&titles=true&theme=dark&perline=4" alt="Matplotlib SciPy Seaborn Jupyter">
+
+</div>
 
 ---
 
@@ -97,9 +101,11 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 ### 🔗 Project Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,fastapi,nvidia,discord&titles=true&theme=dark&perline=5" alt="Python PyTorch FastAPI NVIDIA Discord">
-</p>
+
+</div>
 
 ### 🔄 End-to-End
 
@@ -125,13 +131,17 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 
 ### 🔗 Project Stack
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,nvidia,ffmpeg,youtube&titles=true&theme=dark&perline=4" alt="Python NVIDIA FFmpeg YouTube">
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,nvidia,ffmpeg,youtube&titles=true&theme=dark&perline=4" alt="Python NVIDIA FFmpeg YouTube">
+
+<br/><br/>
+
+<img src="https://11labs-nonprd-15f22c1d.s3.eu-west-3.amazonaws.com/0b9cd3e1-9fad-4a5b-b3a0-c96b0a1f1d2b/elevenlabs-logo-white.svg" width="58" height="58" alt="ElevenLabs">
+<br/>
 <b>ElevenLabs</b>
-</p>
+
+</div>
 
 ### 🔄 End-to-End
 
@@ -162,13 +172,19 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 
 ### 🔗 Project Stack
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface&titles=true&theme=dark&perline=2" alt="PyTorch Hugging Face">
-</p>
+<div align="center">
 
-<p align="center">
-<b>DINO ViT</b>&nbsp;&nbsp;•&nbsp;&nbsp;<b>Swin Transformer</b>&nbsp;&nbsp;•&nbsp;&nbsp;<b>ConvNeXt</b>
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface&titles=true&theme=dark&perline=2" alt="PyTorch HuggingFace">
+
+<br/><br/>
+
+<b>DINO ViT</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<b>Swin Transformer</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<b>ConvNeXt</b>
+
+</div>
 
 ### 🔄 End-to-End
 
@@ -194,9 +210,11 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 
 ### 🔗 Project Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy&titles=true&theme=dark&perline=3" alt="Scikit-Learn Pandas NumPy">
-</p>
+
+</div>
 
 ### 🔄 End-to-End
 
@@ -213,18 +231,23 @@ The final pipeline combines classification, ROC-AUC, F1, precision-recall and st
 
 
 <details open>
+
+<summary><strong>🎮 5 · AI Hand Gesture Gaming — Maze Solver</strong></summary>
+
+> `🏆 Top 5 Hackathon` | VR Siddhartha Engineering College 2025
+
+Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-controlled maze navigation with no keyboard or mouse. **Top 5 Finalist** out of all competing teams.
+
 ### 🔗 Project Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="58" height="58" alt="Python">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,python&titles=true&theme=dark&perline=2" alt="OpenCV Python">
+
+<br/><br/>
+
 <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" width="58" height="58" alt="MediaPipe">
-
-<br>
-
-<b>Python</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
 <b>MediaPipe</b>
 
 </div>
@@ -240,35 +263,67 @@ The complete interaction runs through gesture input and navigation without requi
 
 ---
 
+</details>
+
 ---
 
 ## ⚡ Tech Stack
 
 ### 🧠 Deep Learning & Computer Vision
 
-<p align="center">
+<div align="center">
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,huggingface,tensorflow,scikitlearn&titles=true&theme=dark&perline=5" alt="PyTorch OpenCV HuggingFace TensorFlow Scikit-Learn">
-</p>
+
+</div>
+
+### 🧪 Data Science & Research
+
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib&titles=true&theme=dark&perline=4" alt="Python Pandas NumPy Matplotlib">
+
+<br/><br/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy,seaborn,jupyter&titles=true&theme=dark&perline=3" alt="SciPy Seaborn Jupyter">
+
+</div>
 
 ### 💻 Languages & Frameworks
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,fastapi,flask&titles=true&theme=dark&perline=5" alt="Python JavaScript TypeScript FastAPI Flask">
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true&theme=dark&perline=1" alt="React">
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,fastapi,flask,react&titles=true&theme=dark&perline=6" alt="Python JavaScript TypeScript FastAPI Flask React">
+
+</div>
+
+### 🤖 AI & Model Infrastructure
+
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nvidia,deepseek,ollama,langchain,crewai&titles=true&theme=dark&perline=5" alt="NVIDIA DeepSeek Ollama LangChain CrewAI">
+
+</div>
 
 ### ☁️ Cloud & Infrastructure
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,docker,mysql,mongodb&titles=true&theme=dark&perline=5" alt="AWS Azure Docker MySQL MongoDB">
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git&titles=true&theme=dark&perline=1" alt="Git">
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,docker,mysql,mongodb&titles=true&theme=dark&perline=5" alt="AWS Azure Docker MySQL MongoDB">
+
+<br/><br/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github&titles=true&theme=dark&perline=2" alt="Git GitHub">
+
+</div>
+
+### 🎬 Audio & Media
+
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ffmpeg,youtube,discord&titles=true&theme=dark&perline=3" alt="FFmpeg YouTube Discord">
+
+</div>
 
 ---
 
