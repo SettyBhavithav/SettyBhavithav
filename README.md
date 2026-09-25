@@ -6,17 +6,21 @@
 
 <!-- ========================= CONNECT ========================= -->
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=vercel,linkedin,gmail,discord&size=58&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="Portfolio LinkedIn Email Discord">
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,linkedin,gmail,discord&titles=true&theme=dark&perline=4" alt="Portfolio LinkedIn Email Discord">
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- ========================= QUICK INFO ========================= -->
 
-<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827">
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827" />
+</p>
 
 </div>
 
@@ -64,15 +68,13 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 
 ### 🧪 Research Stack
 
-<div align="center">
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pandas,numpy,matplotlib&titles=true&theme=dark&perline=5" alt="Python Scikit-Learn Pandas NumPy Matplotlib">
+</p>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python,scikitlearn,pandas,numpy,matplotlib&size=58&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="Python Scikit-Learn Pandas NumPy Matplotlib">
-
-<br/><br/>
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=scipy,seaborn,xgboost,jupyter&size=58&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="SciPy Seaborn XGBoost Jupyter">
-
-</div>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy,seaborn,xgboost,jupyter&titles=true&theme=dark&perline=4" alt="SciPy Seaborn XGBoost Jupyter">
+</p>
 
 ---
 
@@ -97,11 +99,9 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 ### 🔗 Project Stack
 
-<div align="center">
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=python,pytorch,fastapi,nvidia,discord&size=56&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="Python PyTorch FastAPI NVIDIA Discord">
-
-</div>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,fastapi,nvidia,discord&titles=true&theme=dark&perline=5" alt="Python PyTorch FastAPI NVIDIA Discord">
+</p>
 
 ### 🔄 End-to-End
 
@@ -127,11 +127,13 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 
 ### 🔗 Project Stack
 
-<div align="center">
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,nvidia,ffmpeg,youtube&titles=true&theme=dark&perline=4" alt="Python NVIDIA FFmpeg YouTube">
+</p>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python,nvidia,elevenlabs,ffmpeg,youtube&size=56&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="Python NVIDIA ElevenLabs FFmpeg YouTube">
-
-</div>
+<p align="center">
+<b>ElevenLabs</b>
+</p>
 
 ### 🔄 End-to-End
 
@@ -162,15 +164,13 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 
 ### 🔗 Project Stack
 
-<div align="center">
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface&titles=true&theme=dark&perline=2" alt="PyTorch Hugging Face">
+</p>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch,huggingface&size=56&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="PyTorch HuggingFace">
-
-<br/><br/>
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch,pytorch,pytorch&size=56&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="DINO ViT Swin Transformer ConvNeXt">
-
-</div>
+<p align="center">
+<b>DINO ViT</b>&nbsp;&nbsp;•&nbsp;&nbsp;<b>Swin Transformer</b>&nbsp;&nbsp;•&nbsp;&nbsp;<b>ConvNeXt</b>
+</p>
 
 ### 🔄 End-to-End
 
@@ -196,11 +196,9 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 
 ### 🔗 Project Stack
 
-<div align="center">
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=scikitlearn,pandas,numpy&size=56&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="Scikit-Learn Pandas NumPy">
-
-</div>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy&titles=true&theme=dark&perline=3" alt="Scikit-Learn Pandas NumPy">
+</p>
 
 ### 🔄 End-to-End
 
@@ -226,11 +224,13 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 
 ### 🔗 Project Stack
 
-<div align="center">
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,python&titles=true&theme=dark&perline=2" alt="OpenCV Python">
+</p>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=opencv,mediapipe,python&size=56&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="OpenCV MediaPipe Python">
-
-</div>
+<p align="center">
+<b>MediaPipe</b>
+</p>
 
 ### 🔄 End-to-End
 
@@ -251,27 +251,29 @@ The complete interaction runs through gesture input and navigation without requi
 
 ### 🧠 Deep Learning & Computer Vision
 
-<div align="center">
-
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch,opencv,huggingface,tensorflow,scikitlearn&size=60&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="PyTorch OpenCV HuggingFace TensorFlow Scikit-Learn">
-
-</div>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,huggingface,tensorflow,scikitlearn&titles=true&theme=dark&perline=5" alt="PyTorch OpenCV HuggingFace TensorFlow Scikit-Learn">
+</p>
 
 ### 💻 Languages & Frameworks
 
-<div align="center">
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,fastapi,flask&titles=true&theme=dark&perline=5" alt="Python JavaScript TypeScript FastAPI Flask">
+</p>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python,javascript,typescript,fastapi,flask,react&size=60&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="Python JavaScript TypeScript FastAPI Flask React">
-
-</div>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true&theme=dark&perline=1" alt="React">
+</p>
 
 ### ☁️ Cloud & Infrastructure
 
-<div align="center">
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,docker,mysql,mongodb&titles=true&theme=dark&perline=5" alt="AWS Azure Docker MySQL MongoDB">
+</p>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=aws,docker,mysql,mongodb,git&size=60&theme=github&bg=transparent&showText=true&textAlignment=vertical" alt="AWS Docker MySQL MongoDB Git">
-
-</div>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git&titles=true&theme=dark&perline=1" alt="Git">
+</p>
 
 ---
 
