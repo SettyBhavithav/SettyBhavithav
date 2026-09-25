@@ -4,17 +4,17 @@
 
 <br/><br/>
 
-<p>
-  <a href="https://my-portfolio-five-murex-93.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/setty-bhavithav-690452262/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:settybhavithav@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/setty_bhavithav"><img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
+<!-- ========================= CONNECT ========================= -->
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,linkedin,gmail,discord&titles=true&theme=dark&perline=4" alt="Portfolio LinkedIn Email Discord">
 </p>
 
-<p>
+<br/>
+
+<!-- ========================= QUICK INFO ========================= -->
+
+<p align="center">
   <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827" />
@@ -69,11 +69,9 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 ### 🧪 Research Stack
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pandas,numpy&titles=true&theme=dark&perline=4" alt="Python Scikit-Learn Pandas NumPy">
-</p>
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,scipy,seaborn,jupyter&titles=true&theme=dark&perline=4" alt="Matplotlib SciPy Seaborn Jupyter">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pandas,numpy,matplotlib,scipy,seaborn,jupyter&titles=true&theme=dark&perline=4" alt="Python Scikit-Learn Pandas NumPy Matplotlib SciPy Seaborn Jupyter">
+
 </p>
 
 ---
@@ -105,8 +103,8 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 ### 🔄 End-to-End
 
-User input → multi-model routing → RAG memory retrieval → reasoning → voice/vision processing → response generation.  
-The asynchronous architecture connects memory, models, tools, wake-word detection, and Discord control into one continuous assistant pipeline.
+Model routing, retrieval, voice/vision processing, and remote control are connected into one continuous AI pipeline.  
+The system runs asynchronously from user input through reasoning, memory retrieval, and response generation.
 
 <br/>
 
@@ -137,8 +135,8 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 
 ### 🔄 End-to-End
 
-Topic input → script generation → TTS voiceover → audio/video processing → subtitle and visual processing → YouTube Data API v3 upload.  
-The complete workflow is automated so the pipeline can produce and publish a Short from a single topic with minimal manual intervention.
+The pipeline moves from topic generation and script creation through TTS, video editing, and automated YouTube publishing.  
+The full workflow is designed to execute from a single topic input with zero manual intervention.
 
 <br/>
 
@@ -169,13 +167,13 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 </p>
 
 <p align="center">
-DINO ViT&nbsp;&nbsp;•&nbsp;&nbsp;Swin Transformer&nbsp;&nbsp;•&nbsp;&nbsp;ConvNeXt
+<b>DINO ViT</b>&nbsp;&nbsp;•&nbsp;&nbsp;<b>Swin Transformer</b>&nbsp;&nbsp;•&nbsp;&nbsp;<b>ConvNeXt</b>
 </p>
 
 ### 🔄 End-to-End
 
-X-ray preprocessing → hybrid vision backbones → DINO self-supervised features → ensemble classification → ordinal evaluation → TTA-based inference.  
-The pipeline produces the final 3-class diagnostic prediction while maintaining zero-leakage evaluation.
+The pipeline processes knee X-rays through hybrid deep-learning features, ordinal classification, augmentation and test-time evaluation.  
+It combines the selected vision backbones into a complete 3-class diagnostic workflow with zero-leakage evaluation.
 
 <br/>
 
@@ -202,8 +200,8 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 
 ### 🔄 End-to-End
 
-Clinical data → preprocessing → feature engineering → RFXG ensemble → prediction → ROC-AUC/F1/precision-recall evaluation → statistical validation.  
-The workflow covers the complete path from patient data preparation through model evaluation and clinical ML analysis.
+The workflow moves from clinical data preprocessing and feature engineering through the RFXG ensemble and model evaluation.  
+The final pipeline combines classification, ROC-AUC, F1, precision-recall and statistical validation.
 
 <br/>
 
@@ -229,13 +227,13 @@ Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-co
 </p>
 
 <p align="center">
-MediaPipe
+<b>MediaPipe</b>
 </p>
 
 ### 🔄 End-to-End
 
-Camera input → hand-gesture detection → gesture recognition → maze state update → graph pathfinding → navigation output.  
-The entire interaction is controlled through hand gestures without requiring a keyboard or mouse.
+The system combines real-time hand-gesture tracking with graph-based pathfinding for maze navigation.  
+The complete interaction runs through gesture input and navigation without requiring a keyboard or mouse.
 
 <br/>
 
