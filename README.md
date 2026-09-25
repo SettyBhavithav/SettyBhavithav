@@ -1,14 +1,8 @@
 <div align="center">
 
-<!-- ========================================================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,25:111827,60:4F46E5,100:06B6D4&height=230&section=header&text=Setty%20Bhavithav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Upcoming%20Researcher&descSize=18&descAlignY=64"/>
 
-<!--                           HERO                            -->
-
-<!-- ========================================================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,25:111827,55:312E81,78:4F46E5,100:06B6D4&height=240&section=header&text=Setty%20Bhavithav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Researcher%20%7C%20Builder&descSize=19&descAlignY=63"/>
-
-<br/>
+<br/><br/>
 
 <h2>AI/ML Engineer • Researcher • Builder</h2>
 
@@ -23,31 +17,75 @@ Building intelligent systems across
 
 <br/>
 
-<!-- SOCIAL ICONS — NO TABLES / NO MANUAL SPACING -->
-
-<p align="center"><a href="https://my-portfolio-five-murex-93.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="58"/></a><a href="https://www.linkedin.com/in/setty-bhavithav-690452262/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="58"/></a><a href="mailto:settybhavithav@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="58"/></a><a href="https://discord.gg/setty_bhavithav"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="58"/></a></p>
-
-<p>
-<b>Portfolio</b> · <b>LinkedIn</b> · <b>Email</b> · <b>Discord</b>
-</p>
-
-<br/>
-
-<!-- PROFILE HIGHLIGHTS — NO TABLES -->
+<!-- ======================== CONNECT ======================== -->
 
 <p align="center">
-<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/🏆%20AI%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827"/>
+
+<a href="https://my-portfolio-five-murex-93.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="58" height="58"/>
+</a>
+
+      
+
+<a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58"/>
+</a>
+
+      
+
+<a href="mailto:settybhavithav@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="58" height="58"/>
+</a>
+
+      
+
+<a href="https://discord.gg/setty_bhavithav">
+<img src="https://skillicons.dev/icons?i=discord" width="58" height="58"/>
+</a>
+
+</p>
+
+<p align="center">
+<sub>Portfolio</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>LinkedIn</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Email</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Discord</sub>
 </p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%2FML-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Medical%20AI-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multimodal%20AI-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Autonomous%20Agents-111827?style=flat-square"/>
+<!-- ======================== HIGHLIGHTS ======================== -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE%20(AI)-Amrita%20University-4F46E5?style=flat-square&labelColor=111827"/>
+
+    
+
+<img src="https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square&labelColor=111827"/>
+
+    
+
+<img src="https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square&labelColor=111827"/>
+
+</p>
+
+<br/>
+
+<p align="center">
+<code>AI/ML</code>
+&nbsp;•&nbsp;
+<code>Computer Vision</code>
+&nbsp;•&nbsp;
+<code>Medical AI</code>
+&nbsp;•&nbsp;
+<code>Multimodal AI</code>
+&nbsp;•&nbsp;
+<code>Autonomous Agents</code>
+</p>
 
 </div>
 
@@ -55,25 +93,7 @@ Building intelligent systems across
 
 # 💫 About Me
 
-I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at Amrita Vishwa Vidyapeetham (2023–2027).
-
-My work focuses on building practical AI systems across **Machine Learning, Deep Learning, Computer Vision, Medical AI, Multimodal AI, RAG systems and Autonomous Agents**.
-
-I work across the complete AI lifecycle — from **data preparation and feature engineering** to **model training, evaluation, explainability, deployment and system integration**.
-
-My projects include clinical ML research, hybrid Vision Transformer architectures, multi-model autonomous agents, AI-powered content automation and real-time computer-vision applications.
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Deep%20Learning-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Medical%20AI-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-AI%20Agents-D97706?style=flat-square"/>
-
-</div>
+I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at Amrita Vishwa Vidyapeetham (2023–2027), with an IEEE-published paper in clinical ML at ICOCT 2025. I design and ship production AI systems spanning **Computer Vision, Medical Imaging, and Multi-LLM Routing** — including Jarvis, a 7-model autonomous assistant with real-time voice, vision, and sub-10ms RAG retrieval. Passionate about pushing the boundaries of Vision Transformers, self-supervised learning (DINO/DINOv2), and scalable Vision-Language Models.
 
 ---
 
@@ -81,161 +101,231 @@ My projects include clinical ML research, hybrid Vision Transformer architecture
 
 <div align="center">
 
-## 📄 Liver Disease Diagnosis Using RFXG Classifier
+## 📄 Liver Disease Diagnosis using RFXG Classifier
 
-<b>2025 International Conference on Computing Technologies (ICOCT)</b>
+<p>
+<b>IEEE ICOCT 2025</b>
+&nbsp;•&nbsp;
+Clinical Machine Learning
+&nbsp;•&nbsp;
+Ensemble Learning
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/IEEE-ICOCT%202025-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOI-10.1109%2FICOCT64433.2025.11118406-4F46E5?style=for-the-badge"/>
+### 🎯 Research Objective
 
-</div>
+Automated liver disease diagnosis using machine learning on clinical patient data.
 
-### 🔬 Research Overview
+### 🧠 Proposed Approach
 
-A clinical machine-learning framework for automated liver disease diagnosis using blood-panel biomarkers.
+<b>RFXG Classifier</b> — ensemble approach combining Random Forest and XGBoost.
 
-The published work proposes the **RFXG classifier**, combining **Random Forest and Extreme Gradient Boosting (XGBoost)** to improve classification performance.
+### ⚙️ Methodology
 
-The associated implementation repository extends the clinical ML pipeline with domain-specific feature engineering, SMOTE class balancing, multi-model benchmarking, cross-validation, ensemble learning and explainability.
-
-### 🧪 Research Methodology
-
-**Clinical Data**
-
-→ Blood-panel biomarkers
-
-→ Missing-value handling
-
-→ Clinical-range feature engineering
-
-→ Standardization / preprocessing
-
-→ SMOTE class balancing
-
-→ Multiple ML model benchmarking
-
-→ Ensemble learning
-
-→ Cross-validation
-
-→ Explainability
-
-→ Statistical evaluation
-
-### 🧠 RFXG Concept
-
-**Random Forest + XGBoost → Ensemble Classification**
-
-The research evaluates ensemble learning for clinical liver disease classification and compares it with multiple baseline machine-learning models.
+<p>
+📥 Data Preprocessing
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🧬 Feature Engineering
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🌲 Random Forest
+&nbsp;&nbsp;→&nbsp;&nbsp;
+⚡ XGBoost
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🧠 RFXG Ensemble
+&nbsp;&nbsp;→&nbsp;&nbsp;
+📊 Evaluation
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🔬 Statistical Validation
+</p>
 
 ### 📊 Evaluation
 
-* ROC-AUC
-* Accuracy
-* Precision
-* Recall
-* F1-Score
-* Precision-Recall analysis
-* Cross-validation
-* Statistical comparison
+<p>
+ROC-AUC
+&nbsp;•&nbsp;
+F1-Score
+&nbsp;•&nbsp;
+Precision
+&nbsp;•&nbsp;
+Recall
+&nbsp;•&nbsp;
+Precision-Recall Analysis
+</p>
 
-### 🔎 Explainable AI
+### 🔬 Statistical Validation
 
-The implementation includes explainability workflows using **SHAP** and **LIME**, with feature-attribution analysis for clinical biomarkers.
+McNemar's Significance Test for comparative model evaluation.
 
-### 🏥 Clinical Biomarkers
+### 🏥 Application
 
-The repository works with clinical features including:
+Clinical decision-support research for automated liver disease diagnosis.
 
-* Total Bilirubin
-* Direct Bilirubin
-* Alkaline Phosphatase
-* SGPT / ALT
-* SGOT / AST
-* Total Proteins
-* Albumin
-* A/G Ratio
+### 🧪 Research Domain
 
-It also creates abnormal-value indicators using clinical reference ranges.
+Machine Learning • Clinical AI • Ensemble Learning • Healthcare AI
 
-### 📈 Current Repository Benchmark
-
-The current implementation reports:
-
-**99.70%** Soft-Voting Hybrid Ensemble accuracy
-
-with XGBoost, Random Forest, Extra Trees, LightGBM, Gradient Boosting, Bagged Decision Trees, Logistic Regression and KNN among the evaluated models.
+<br/>
 
 ---
 
-# 🔬 Research Stack
+## 🔧 Research Stack
 
-<div align="center">
+### 🧠 Core Research Technologies
 
-### 🐍 Core Research
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,numpy,pandas,scipy&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python" width="58" height="58"/>
 
-<br/><br/>
+        
 
-### 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn" width="58" height="58"/>
 
-<img src="https://img.shields.io/badge/Random%20Forest-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Extra%20Trees-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gradient%20Boosting-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Soft%20Voting-111827?style=for-the-badge"/>
+        
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="58" height="58"/>
 
-### 🧬 Data & Experimentation
+        
+
+<img src="https://skillicons.dev/icons?i=opencv" width="58" height="58"/>
+
+        
+
+<img src="https://skillicons.dev/icons?i=huggingface" width="58" height="58"/>
+
+</p>
+
+<p align="center">
+<sub>Python</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Scikit-learn</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>PyTorch</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>OpenCV</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Hugging Face</sub>
+</p>
+
+<br/>
+
+### 📊 Data Science & Statistical Analysis
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+    
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SMOTE-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Imbalanced--learn-111827?style=for-the-badge"/>
 
-<br/><br/>
-
-### 📊 Visualization & Evaluation
+    
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge"/>
+
+    
+
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+</p>
+
+<br/>
+
+### 🤖 Machine Learning & Experimentation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Random%20Forest-111827?style=for-the-badge"/>
+
+    
+
+<img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge"/>
+
+    
+
+<img src="https://img.shields.io/badge/Ensemble%20Learning-111827?style=for-the-badge"/>
+
+    
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-111827?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+### 📐 Evaluation & Validation
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/ROC--AUC-4F46E5?style=for-the-badge"/>
+
+    
+
 <img src="https://img.shields.io/badge/F1--Score-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cross--Validation-059669?style=for-the-badge"/>
 
-<br/><br/>
+    
 
-### 🔎 Explainable AI
+<img src="https://img.shields.io/badge/Precision--Recall-059669?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SHAP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIME-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Attribution-111827?style=for-the-badge"/>
+    
 
-<br/><br/>
+<img src="https://img.shields.io/badge/McNemar's%20Test-D97706?style=for-the-badge"/>
 
-### 👁️ Deep Learning & Vision Research
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,huggingface&perline=3&theme=dark"/>
+<br/>
 
-<img src="https://img.shields.io/badge/ConvNeXt-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swin%20Transformer-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DINO%20ViT-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ordinal%20Learning-111827?style=for-the-badge"/>
+### 🔬 Research Workflow
 
-<br/><br/>
+<p align="center">
 
-### 🧠 Vision Explainability
+📥 <b>Data</b>
+  →  
+⚙️ <b>Preprocessing</b>
+  →  
+🧬 <b>Features</b>
+  →  
+🌲 <b>Random Forest</b>
+  →  
+⚡ <b>XGBoost</b>
+  →  
+🧠 <b>RFXG</b>
+  →  
+📊 <b>Evaluation</b>
+  →  
+🔬 <b>Validation</b>
 
-<img src="https://img.shields.io/badge/Captum-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Grad--CAM-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XAI-111827?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Clinical%20AI-111827?style=flat-square"/>
+
+  
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square"/>
+
+  
+
+<img src="https://img.shields.io/badge/Ensemble%20Learning-111827?style=flat-square"/>
+
+  
+
+<img src="https://img.shields.io/badge/Healthcare%20AI-111827?style=flat-square"/>
+
+  
+
+<img src="https://img.shields.io/badge/Statistical%20Validation-111827?style=flat-square"/>
+
+</p>
+
+<br/>
+
+<a href="https://github.com/SettyBhavithav">
+<img src="https://img.shields.io/badge/VIEW%20RESEARCH%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -243,511 +333,433 @@ with XGBoost, Random Forest, Extra Trees, LightGBM, Gradient Boosting, Bagged De
 
 # 🚀 Featured Projects
 
-## 🤖 01 · JARVIS — Autonomous Multi-Modal AI Assistant
+## 🤖 01 · Jarvis — Autonomous Multi-Modal AI Assistant
+
+> `Production AI` | **7 AI Models** | Sub-10ms RAG | Real-time Voice + Vision
+
+Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**, Faster-Whisper STT, Edge-TTS, and multi-model reasoning. Async 4-thread pipeline with wake-word detection, long-term RAG memory, and Discord integration.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Windows%20AI%20Agent-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimodal%20AI-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Real--Time%20Voice-D97706?style=for-the-badge"/>
+<p>
+⚡ <b>RAG Speed</b> — Sub-10ms retrieval
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 <b>Models</b> — 7 AI models integrated
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🎙️ <b>Voice</b> — Wake-word + Real-time TTS
+</p>
 
-</div>
+<br/>
 
-### 🧠 Overview
+<p>
 
-**Jarvis** is a highly customized, ultra-low-latency autonomous personal AI agent built specifically for Windows.
+<img src="https://skillicons.dev/icons?i=python" width="52"/>
 
-Unlike a conventional chatbot, Jarvis can:
+     
 
-* See the user's screen
-* Hear voice input
-* Control the local operating system
-* Maintain long-term memory
-* Execute computer actions
-* Browse and scrape websites
-* Send Gmail messages
-* Interact through Discord
-* Control media
-* Summarize YouTube videos
-* Use local and cloud AI models
-* Respond through real-time speech
+<img src="https://skillicons.dev/icons?i=pytorch" width="52"/>
 
-The architecture combines local computation with cloud AI to balance privacy, latency and model capability.
+     
 
-### ⚡ Core Capabilities
+<img src="https://skillicons.dev/icons?i=fastapi" width="52"/>
 
-**🧠 Dynamic Brain Routing**
+     
 
-Routes requests according to task type, using different models for coding, reasoning, vision, general conversation and offline operation.
+<img src="https://skillicons.dev/icons?i=discord" width="52"/>
 
-**🗣️ True Voice Interruption**
+</p>
 
-Jarvis can interrupt active speech, flush queued TTS audio and return to the microphone loop.
+<br/>
 
-**👁️ Screen Awareness**
+<img src="https://img.shields.io/badge/NVIDIA%20NIM-111827?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
 
-Captures the screen automatically when visual understanding is requested and routes the image to NVIDIA NIM Vision.
+  
 
-**🌐 Headless Web Automation**
-
-Uses Playwright and Chromium for browser automation and webpage extraction.
-
-**📧 Autonomous Email**
-
-Uses Google Gmail API authentication to compose and send messages.
-
-**🧠 Long-Term RAG Memory**
-
-Encodes information with `all-MiniLM-L6-v2`, stores memories in MongoDB Atlas and retrieves relevant context for future interactions.
-
-**📱 Discord Remote Control**
-
-Allows Jarvis to receive commands remotely through Discord.
-
-**🎵 Media Control**
-
-Controls Windows and Spotify media through OS-level keyboard actions.
-
-**📺 YouTube Intelligence**
-
-Retrieves YouTube transcripts and generates concise summaries.
-
-All of these capabilities are documented in the current repository architecture.
-
-### 🧠 AI Model Ecosystem
-
-The current repository documents the following AI/model components:
-
-* Groq LPU — Llama 3.1 70B
-* NVIDIA NIM — Llama 3.2 11B Vision
-* NVIDIA NIM — Llama 3.1 8B
-* DeepSeek Chat
-* DeepSeek Reasoner
-* Google Gemini Pro
-* Ollama — Llama 3.1 8B
-* Faster-Whisper
-* Edge-TTS
-* Sentence Transformers
-* Llama Guard 4
-* OpenWakeWord
-
-### 🏗️ Architecture
-
-**Boot & Authentication**
-
-→ Google OAuth2
-
-→ API initialization
-
-→ Local model loading
-
-→ Concurrent daemon threads
-
-→ Voice / Discord input
-
-→ Safety filtering
-
-→ OS action controller
-
-→ RAG retrieval
-
-→ AI model routing
-
-→ Response streaming
-
-→ TTS
-
-→ Memory write-back
-
-→ Voice interruption loop
-
-The repository documents this as a multi-phase architecture covering authentication, model loading, concurrent processing, input handling, safety, OS actions, RAG, model routing and asynchronous voice output.
-
-### 🛠️ Jarvis Stack
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,discord,playwright,pytorch&perline=6&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NVIDIA%20NIM-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepSeek-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Faster--Whisper-111827?style=for-the-badge"/>
+
+  
+
 <img src="https://img.shields.io/badge/Edge--TTS-111827?style=for-the-badge"/>
+
+  
+
 <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Jarvis">
-<img src="https://img.shields.io/badge/VIEW%20JARVIS%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
----
-
-# 🩺 02 · Knee Osteoarthritis Diagnostic Pipeline
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Medical%20AI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vision%20Transformers-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XAI-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Leakage--Free-D97706?style=for-the-badge"/>
 
 </div>
 
-### 🔬 Overview
+---
 
-An end-to-end, clinically validated, leakage-free deep-learning framework for automated **3-class Knee Osteoarthritis severity grading** from radiographic X-ray images.
+## 🎬 02 · YouTube Shorts Automation
 
-The current repository combines:
+> `AI Automation` | LLM Script → TTS → Video → Auto-Upload
 
-* ConvNeXt-Base
-* Swin Transformer
-* DINO ViT
-* Ordinal-aware optimization
-* Hybrid feature fusion
-* GPU dual-pass Test-Time Augmentation
-* Explainable AI
-* Patient-level leakage auditing
-* Statistical testing
-* Automated evaluation and reporting
+AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script writing, TTS voiceover synthesis, automated video editing, and YouTube Data API v3 publishing. Zero manual effort.
 
-### 🧠 Hybrid Architecture
+<div align="center">
 
-**Input Radiograph**
+<p>
 
-→ ConvNeXt-Base
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
-→ Swin Transformer
+      
 
-→ DINO ViT-Base
+<img src="https://img.shields.io/badge/NVIDIA%20NIM-111827?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
 
-→ Feature extraction
+  
 
-→ Late feature concatenation
+<img src="https://img.shields.io/badge/ElevenLabs-111827?style=for-the-badge"/>
 
-→ 2816-dimensional representation
+  
 
-→ Multi-layer classification head
+<img src="https://img.shields.io/badge/FFmpeg-111827?style=for-the-badge"/>
 
-→ 3 severity tiers
+  
 
-**Healthy → Moderate → Severe**
+<img src="https://img.shields.io/badge/YouTube%20API-111827?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 
-### 📊 Current Repository Benchmarks
+</p>
 
-The current repository reports the following GPU dual-pass TTA evaluation:
+<br/>
 
-**Hybrid Fusion Model**
+<a href="https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-* Accuracy: **90.92%**
-* Precision: **92.39%**
-* Recall: **93.17%**
-* Macro F1: **92.70%**
-* QWK: **0.853**
-* Macro AUC: **0.980**
+</div>
 
-DINO ViT reports **90.22% accuracy**, while the Hybrid Fusion Model reports **90.92%**.
+---
 
-### 🛡️ Clinical Safeguards
+## 🩺 03 · Knee OA Medical ViT Ensemble Diagnostic Pipeline
 
-* **100% Severe Class Sensitivity** on the reported test cohort
-* Zero extreme grade reversals reported
-* Strict patient-level splitting
-* Zero subject overlap across splits
-* Quadratic Weighted Kappa evaluation
-* Statistical validation
-* Explainability analysis
+> `Research AI` | **90.07% Accuracy** | **0.830 Cohen's Kappa** | Q1 Journal Standards
 
-### 🔎 Explainability
+Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses ConvNeXt-Base, Swin Transformer & DINO ViT with custom Ordinal Regression Loss and 4-View TTA. DINO ViT ablation confirmed as dominant backbone (−8.21% on removal).
 
-The repository includes:
+<div align="center">
 
-* Grad-CAM
-* Captum
-* Attention heatmaps
-* Feature-level analysis
-* Ablation analysis
+<p>
+<b>90.07%</b> Accuracy
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<b>0.830</b> Cohen's Kappa
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<b>9,770</b> X-rays
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<b>4,656</b> Patients
+</p>
 
-The pipeline is designed to make model predictions more interpretable rather than treating the classifier as a black box.
+<br/>
 
-### 🛠️ Research Stack
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn&perline=4&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="52"/>
 
-<img src="https://img.shields.io/badge/timm-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Captum-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Grad--CAM-111827?style=for-the-badge"/>
+     
+
+<img src="https://skillicons.dev/icons?i=huggingface" width="52"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=opencv" width="52"/>
+
+</p>
+
+<br/>
+
 <img src="https://img.shields.io/badge/DINO%20ViT-111827?style=for-the-badge"/>
+
+  
+
 <img src="https://img.shields.io/badge/Swin%20Transformer-111827?style=for-the-badge"/>
+
+  
+
 <img src="https://img.shields.io/badge/ConvNeXt-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TTA-111827?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble">
-<img src="https://img.shields.io/badge/VIEW%20KNEE%20OA%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
----
-
-# 🧪 03 · Clinical Liver Disease Diagnosis
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Clinical%20ML-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ensemble%20Learning-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/99.70%25%20CV%20Accuracy-D97706?style=for-the-badge"/>
 
 </div>
 
-### 🧬 Overview
-
-An end-to-end clinical machine-learning framework for automated liver disease diagnosis from blood-panel biomarkers.
-
-The repository uses the **Indian Liver Patient Dataset with 43,280 patient records** and combines clinical feature engineering, imbalance handling, model benchmarking, cross-validation, hybrid ensembling and explainability.
-
-### ⚙️ Pipeline
-
-**Clinical Blood Data**
-
-→ Missing-value processing
-
-→ Clinical normal-range feature engineering
-
-→ Standardization
-
-→ SMOTE
-
-→ Multi-model training
-
-→ Hyperparameter optimization
-
-→ Cross-validation
-
-→ Soft-Voting Hybrid Ensemble
-
-→ XAI
-
-→ Patient prediction
-
-### 🧠 Models Evaluated
-
-* XGBoost
-* LightGBM
-* Random Forest
-* Extra Trees
-* Gradient Boosting
-* Decision Tree
-* Bagged Ensemble
-* Logistic Regression
-* KNN
-* Naïve Bayes
-
-### 📊 Current Results
-
-**Soft-Voting Hybrid Ensemble**
-
-* Accuracy: **99.70%**
-* Precision: **99.71%**
-* Recall: **99.70%**
-* F1-Score: **99.70%**
-
-### 🔎 Explainability
-
-The repository includes:
-
-* SHAP feature importance
-* LIME
-* Clinical feature attribution
-* Biomarker analysis
-
-The project specifically analyses the contribution of transaminase levels, bilirubin fractions and A/G ratio.
-
-### 🛠️ Stack
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,scipy&perline=5&theme=dark"/>
-
-<img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SMOTE-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Optuna-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHAP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIME-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/SettyBhavithav/Liver-Disease-Diagnosis">
-<img src="https://img.shields.io/badge/VIEW%20LIVER%20DISEASE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ---
 
-# 🎬 04 · Autonomous AI Shorts Generator
+## 🧪 04 · Clinical Liver Disease Diagnosis ML Pipeline
+
+> `IEEE Published — ICOCT 2025` | RFXG Classifier | Clinical ML
+
+End-to-end ML pipeline for clinical liver disease prediction — IEEE published. RFXG ensemble evaluated with ROC-AUC, F1, precision-recall, and McNemar's significance testing on real patient data.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Video%20Generation-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TTS-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FFmpeg-D97706?style=for-the-badge"/>
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
-### 🎥 Overview
+        
 
-A production-grade automated video-generation pipeline that transforms scripts or audio prompts into fully edited **vertical 9:16 short-form videos**.
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
 
-The repository currently implements:
-
-* Human-like TTS speech pacing
-* ONNX Piper TTS
-* OpenAI Whisper word-level transcription
-* Dynamic karaoke subtitles
-* Pexels stock-video retrieval
-* Automatic keyword extraction
-* 1080×1920 portrait video processing
-* Fast-paced 3-second clip editing
-* Animated CTA overlays
-* Download history tracking
-* Duplicate prevention
-* Date-organized batch outputs
-
-### 🔄 Pipeline
-
-**Script / Audio**
-
-→ TTS generation
-
-→ Whisper transcription
-
-→ Word-level subtitle generation
-
-→ Keyword extraction
-
-→ Pexels video retrieval
-
-→ 9:16 video processing
-
-→ 3-second segmentation
-
-→ Subtitle rendering
-
-→ CTA overlays
-
-→ Final MP4
-
-→ Organized batch output
-
-### 🛠️ Stack
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Piper%20TTS-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI%20Whisper-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pexels%20API-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FFmpeg-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ASS%20Subtitles-111827?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator">
-<img src="https://img.shields.io/badge/VIEW%20SHORTS%20GENERATOR-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-# 🎮 05 · AI Maze Solver — Elixir
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=elixir,python&perline=2&theme=dark"/>
-
-</div>
-
-### 🧩 Project
-
-An Elixir-based maze-solving project with a dedicated `lib` structure, Mix project configuration and Python test component.
-
-The repository currently contains:
-
-* Elixir project structure
-* `mix.exs`
-* `lib/`
-* Python test file
-* Project README
-* Copyright and proprietary-project documentation
-
-The current public repository does **not** expose a detailed project description in its README, so this profile intentionally does not invent algorithmic claims that aren't documented there.
+</p>
 
 <br/>
 
-<a href="https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier">
-<img src="https://img.shields.io/badge/VIEW%20MAZE%20SOLVER%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/SettyBhavithav/Liver-Disease-Diagnosis">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 ---
 
-# ⚡ Technology Stack
+## 🎮 05 · AI Hand Gesture Gaming — Maze Solver
+
+> `🏆 Top 5 Hackathon` | VR Siddhartha Engineering College 2025
+
+Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-controlled maze navigation with no keyboard or mouse. **Top 5 Finalist** out of all competing teams.
 
 <div align="center">
 
-## 🧠 AI / ML / Deep Learning
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface,opencv&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=elixir" width="55"/>
 
-<br/><br/>
+      
 
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Medical%20AI-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
 
-<br/><br/>
+      
 
-## 👁️ Vision & Research
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
-<img src="https://img.shields.io/badge/ConvNeXt-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swin%20Transformer-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DINO%20ViT-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Grad--CAM-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Captum-111827?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MediaPipe-111827?style=for-the-badge"/>
 
 <br/><br/>
 
-## 🧩 Languages
+<a href="https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,bash,elixir&perline=10&theme=dark"/>
+</div>
 
-<br/><br/>
+---
 
-## 🌐 Backend & Application Development
+# ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react&perline=4&theme=dark"/>
+## 🧠 Deep Learning & Computer Vision
 
-<br/><br/>
+<div align="center">
 
-## 🗄️ Databases
+<p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
 
-<br/><br/>
+      
+
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=huggingface" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
+
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DINO%20%2F%20DINOv2-111827?style=for-the-badge"/>
+
+  
+
+<img src="https://img.shields.io/badge/Vision%20Transformers-111827?style=for-the-badge"/>
+
+  
+
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+
+  
+
+<img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge"/>
+
+  
+
+<img src="https://img.shields.io/badge/Multimodal%20AI-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 💻 Languages & Frameworks
+
+<div align="center">
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=c" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=ts" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+
+</p>
+
+<br/>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=flask" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=elixir" width="55"/>
+
+     
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+
+</p>
+
+</div>
+
+---
 
 ## ☁️ Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&perline=5&theme=dark"/>
+<div align="center">
 
-<br/><br/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=azure" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+</p>
+
+<br/>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/>
+
+</p>
+
+</div>
+
+---
 
 ## 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,linux,git&perline=5&theme=dark"/>
+<div align="center">
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=pycharm" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+
+      
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FFmpeg-111827?style=for-the-badge"/>
+
+  
+
+<img src="https://img.shields.io/badge/NVIDIA%20NIM-111827?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+
+  
+
+<img src="https://img.shields.io/badge/ElevenLabs-111827?style=for-the-badge"/>
 
 </div>
 
@@ -757,33 +769,47 @@ The current public repository does **not** expose a detailed project description
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/☁️%20AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<p>
+☁️ <b>AWS Certified Cloud Practitioner</b>
+&nbsp;•&nbsp;
+Amazon Web Services
+</p>
 
-<br/>
+<p>
+🔷 <b>Azure AI Engineer Associate</b>
+&nbsp;•&nbsp;
+Microsoft
+</p>
 
-<img src="https://img.shields.io/badge/🔷%20Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<p>
+🧠 <b>Oracle Generative AI Professional</b>
+&nbsp;•&nbsp;
+Oracle
+</p>
 
-<br/>
+<p>
+🗄️ <b>Oracle MySQL 8.0 Database Developer</b>
+&nbsp;•&nbsp;
+Oracle
+</p>
 
-<img src="https://img.shields.io/badge/🧠%20Oracle%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<p>
+🏆 <b>Top 5 Finalist — AI Hackathon</b>
+&nbsp;•&nbsp;
+VR Siddhartha Engineering College
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/🗄️%20Oracle%20MySQL%208.0%20Database%20Developer-F80000?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🏆%20AI%20Hackathon%20—%20Top%205%20Finalist-D97706?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🌟%20Infosys%20Springboard%20Internship%207.0-007CC3?style=for-the-badge"/>
+<p>
+🌟 <b>Infosys Springboard Internship 7.0</b>
+&nbsp;•&nbsp;
+Infosys
+</p>
 
 </div>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -797,42 +823,50 @@ The current public repository does **not** expose a detailed project description
 
 ---
 
-# 🧭 What I Build
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-Intelligent%20Agents-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-Computer%20Vision-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-Medical%20AI-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-Multimodal%20Systems-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-AI%20Automation-D97706?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/06-RAG%20%26%20Memory-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/07-Vision%20Transformers-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/08-Clinical%20ML-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/09-Explainable%20AI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/10-AI%20Automation-111827?style=for-the-badge"/>
-
-</div>
-
----
-
 # 🔗 Connect With Me
 
 <div align="center">
 
-<p align="center"><a href="https://my-portfolio-five-murex-93.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60"/></a><a href="https://www.linkedin.com/in/setty-bhavithav-690452262/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60"/></a><a href="mailto:settybhavithav@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60"/></a><a href="https://discord.gg/setty_bhavithav"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="60"/></a></p>
+<p>
+
+<a href="https://my-portfolio-five-murex-93.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+</a>
+
+        
+
+<a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+        
+
+<a href="mailto:settybhavithav@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+        
+
+<a href="https://discord.gg/setty_bhavithav">
+<img src="https://skillicons.dev/icons?i=discord" width="55"/>
+</a>
+
+</p>
 
 <p>
-<a href="https://my-portfolio-five-murex-93.vercel.app/">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/setty-bhavithav-690452262/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:settybhavithav@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://discord.gg/setty_bhavithav">Discord</a>
+<b>Portfolio</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>LinkedIn</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Email</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Discord</b>
+</p>
+
+<br/>
+
+<p>
+<b>Let's build something intelligent.</b>
 </p>
 
 </div>
@@ -845,10 +879,10 @@ The current public repository does **not** expose a detailed project description
 
 <br/>
 
-<b>Advancing Deep Learning, Vision Transformers & Multimodal Autonomous AI</b>
+***"Advancing Deep Learning, Vision Transformers & Multimodal Autonomous AI"***
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:4F46E5,100:070B14&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:4F46E5,100:070B14&height=120&section=footer"/>
 
 </div>
