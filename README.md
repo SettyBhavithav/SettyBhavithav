@@ -1,26 +1,30 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
+<!-- ========================= HEADER ========================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=180&section=header&text=Setty%20Bhavithav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Upcoming%20Researcher&descSize=16&descAlignY=65"/>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
+<!-- ========================= SOCIALS ========================= -->
 
-[![Portfolio](https://img.shields.io/badge/-🌐%20Portfolio-4F46E5?style=for-the-badge)](https://my-portfolio-five-murex-93.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/setty-bhavithav-690452262/) 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:settybhavithav@gmail.com) 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/setty_bhavithav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-portfolio-five-murex-93.vercel.app/)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/setty-bhavithav-690452262/)
+  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:settybhavithav@gmail.com)
+  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/setty_bhavithav)
 
-<br/>
+<br/><br/>
 
-<!-- QUICK STATS -->
+<!-- ========================= QUICK INFO ========================= -->
 
-![](https://img.shields.io/badge/🎓%20B.Tech%20CSE%20\(AI\)-Amrita%20University-4F46E5?style=flat-square) 
-![](https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square) 
-![](https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square) 
-![](https://img.shields.io/badge/🎯%20Medical%20AI-90.07%25%20Accuracy-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/🎓%20B.Tech%20CSE%20\(AI\)-Amrita%20University-4F46E5?style=flat-square)
+  
+![](https://img.shields.io/badge/📄%20IEEE%20Published-ICOCT%202025-059669?style=flat-square)
+  
+![](https://img.shields.io/badge/🏆%20Hackathon-Top%205%20Finalist-D97706?style=flat-square)
 
 </div>
 
@@ -46,11 +50,78 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 
 </div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square)
+<br/>
+
+### 🧪 Research & Data Science Stack
+
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python"/>
+<br/>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sklearn" width="52" height="52" alt="Scikit-Learn"/>
+<br/>
+<b>Scikit-Learn</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=numpy" width="52" height="52" alt="NumPy"/>
+<br/>
+<b>NumPy</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pandas" width="52" height="52" alt="Pandas"/>
+<br/>
+<b>Pandas</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jupyter" width="52" height="52" alt="Jupyter"/>
+<br/>
+<b>Jupyter</b>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="52" height="52" alt="SciPy"/>
+<br/>
+<b>SciPy</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="52" height="52" alt="Matplotlib"/>
+<br/>
+<b>Matplotlib</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="52" height="52" alt="Seaborn"/>
+<br/>
+<b>Seaborn</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/xgboost/FF6600" width="52" height="52" alt="XGBoost"/>
+<br/>
+<b>XGBoost</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/imblearn/FF6F00" width="52" height="52" alt="Imbalanced-Learn"/>
+<br/>
+<b>Imbalanced-Learn</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -62,19 +133,60 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 
 Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**, Faster-Whisper STT, Edge-TTS, and multi-model reasoning. Async 4-thread pipeline with wake-word detection, long-term RAG memory, and Discord integration.
 
-<table>
-<tr><td>⚡ RAG Speed</td><td><b>Sub-10ms retrieval</b></td></tr>
-<tr><td>🧠 Models</td><td><b>7 AI models integrated</b></td></tr>
-<tr><td>🎙️ Voice</td><td><b>Wake-word + Real-time TTS</b></td></tr>
+<table border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td>⚡ RAG Speed</td>
+<td><b>Sub-10ms retrieval</b></td>
+</tr>
+<tr>
+<td>🧠 Models</td>
+<td><b>7 AI models integrated</b></td>
+</tr>
+<tr>
+<td>🎙️ Voice</td>
+<td><b>Wake-word + Real-time TTS</b></td>
+</tr>
 </table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square\&logo=discord\&logoColor=white)
+### Project Stack
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Jarvis)
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+<br/>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+<br/>
+<sub><b>PyTorch</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+<br/>
+<sub><b>FastAPI</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nvidia" width="48" height="48" alt="NVIDIA"/>
+<br/>
+<sub><b>NVIDIA NIM</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/>
+<br/>
+<sub><b>Discord.py</b></sub>
+</td>
+
+</tr>
+</table>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Jarvis)
 
 ---
 
@@ -84,13 +196,45 @@ Production-grade multi-LLM + VLM routing agent integrating **NVIDIA NIM Vision**
 
 AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script writing, TTS voiceover synthesis, automated video editing, and YouTube Data API v3 publishing. Zero manual effort.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square)
-![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square\&logo=youtube\&logoColor=white)
+### Project Stack
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator)
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+<br/>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nvidia" width="48" height="48" alt="NVIDIA"/>
+<br/>
+<sub><b>NVIDIA NIM</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ffmpeg" width="48" height="48" alt="FFmpeg"/>
+<br/>
+<sub><b>FFmpeg</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=youtube" width="48" height="48" alt="YouTube"/>
+<br/>
+<sub><b>YouTube API</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="ElevenLabs"/>
+<br/>
+<sub><b>ElevenLabs</b></sub>
+</td>
+
+</tr>
+</table>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Autonomous-AI-Shorts-Generator)
 
 ---
 
@@ -100,18 +244,60 @@ AI-powered end-to-end YouTube Shorts pipeline — topic generation, LLM script w
 
 Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses ConvNeXt-Base, Swin Transformer & DINO ViT with custom Ordinal Regression Loss and 4-View TTA. DINO ViT ablation confirmed as dominant backbone (−8.21% on removal).
 
-<table>
-<tr><td>✅ Accuracy</td><td><b>90.07%</b></td><td>📊 Cohen's Kappa</td><td><b>0.830</b></td></tr>
-<tr><td>🩻 X-rays</td><td><b>9,770</b></td><td>👥 Patients</td><td><b>4,656</b></td></tr>
+<table border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td>✅ Accuracy</td>
+<td><b>90.07%</b></td>
+<td>📊 Cohen's Kappa</td>
+<td><b>0.830</b></td>
+</tr>
+<tr>
+<td>🩻 X-rays</td>
+<td><b>9,770</b></td>
+<td>👥 Patients</td>
+<td><b>4,656</b></td>
+</tr>
 </table>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![DINO](https://img.shields.io/badge/DINO_ViT-4F46E5?style=flat-square)
-![Swin](https://img.shields.io/badge/Swin_Transformer-0284C7?style=flat-square)
-![ConvNeXt](https://img.shields.io/badge/ConvNeXt-059669?style=flat-square)
+### Project Stack
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble)
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+<br/>
+<sub><b>PyTorch</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="Hugging Face"/>
+<br/>
+<sub><b>Hugging Face</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="DINO"/>
+<br/>
+<sub><b>DINO ViT</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Swin Transformer"/>
+<br/>
+<sub><b>Swin Transformer</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="ConvNeXt"/>
+<br/>
+<sub><b>ConvNeXt</b></sub>
+</td>
+
+</tr>
+</table>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Knee-OA-Diagnostic-Pipeline-Hybrid-ViT-Ensemble)
 
 ---
 
@@ -121,11 +307,45 @@ Zero-leakage 3-class knee OA classifier on 9,770 X-rays (4,656 patients). Fuses 
 
 End-to-end ML pipeline for clinical liver disease prediction — IEEE published. RFXG ensemble evaluated with ROC-AUC, F1, precision-recall, and McNemar's significance testing on real patient data.
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+### Project Stack
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Liver-Disease-Diagnosis)
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+<br/>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn"/>
+<br/>
+<sub><b>Scikit-Learn</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas"/>
+<br/>
+<sub><b>Pandas</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/>
+<br/>
+<sub><b>NumPy</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
+<br/>
+<sub><b>Jupyter</b></sub>
+</td>
+
+</tr>
+</table>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/Liver-Disease-Diagnosis)
 
 ---
 
@@ -135,401 +355,322 @@ End-to-end ML pipeline for clinical liver disease prediction — IEEE published.
 
 Real-time hand gesture tracking fused with graph pathfinding — 100% gesture-controlled maze navigation with no keyboard or mouse. **Top 5 Finalist** out of all competing teams.
 
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square\&logo=elixir\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+### Project Stack
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier)
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+<br/>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=elixir" width="48" height="48" alt="Elixir"/>
+<br/>
+<sub><b>Elixir</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/>
+<br/>
+<sub><b>OpenCV</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="MediaPipe"/>
+<br/>
+<sub><b>MediaPipe</b></sub>
+</td>
+
+</tr>
+</table>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SettyBhavithav/AI-Maze-Solver-Using-elixier)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 🧠 Deep Learning & Computer Vision
 
-<p align="center">
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=pytorch" width="52" height="52" alt="PyTorch"/>
 <br/>
-<sub><b>PyTorch</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>PyTorch</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="52" height="52" alt="TensorFlow"/>
 <br/>
-<sub><b>TensorFlow</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>TensorFlow</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=opencv" width="52" height="52" alt="OpenCV"/>
 <br/>
-<sub><b>OpenCV</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>OpenCV</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=huggingface" width="52" height="52" alt="Hugging Face"/>
 <br/>
-<sub><b>Hugging Face</b></sub>
-</span>
+<b>Hugging Face</b>
+</td>
 
-</p>
-
-<p align="center">
-
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=sklearn" width="52" height="52" alt="Scikit-Learn"/>
 <br/>
-<sub><b>Scikit-Learn</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Scikit-Learn</b>
+</td>
 
-<span>
-<img src="https://skillicons.dev/icons?i=numpy" width="52" height="52" alt="NumPy"/>
-<br/>
-<sub><b>NumPy</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</tr>
+</table>
 
-<span>
-<img src="https://skillicons.dev/icons?i=pandas" width="52" height="52" alt="Pandas"/>
-<br/>
-<sub><b>Pandas</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+### 🤖 Generative AI & AI Engineering
 
-<span>
-<img src="https://skillicons.dev/icons?i=jupyter" width="52" height="52" alt="Jupyter"/>
-<br/>
-<sub><b>Jupyter</b></sub>
-</span>
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-</p>
-
-<br/>
-
-### 🔬 Research & Data Science
-
-<p align="center">
-
-<span>
-<img src="https://skillicons.dev/icons?i=scipy" width="52" height="52" alt="SciPy"/>
-<br/>
-<sub><b>SciPy</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=matplotlib" width="52" height="52" alt="Matplotlib"/>
-<br/>
-<sub><b>Matplotlib</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python"/>
-<br/>
-<sub><b>Python</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=anaconda" width="52" height="52" alt="Anaconda"/>
-<br/>
-<sub><b>Anaconda</b></sub>
-</span>
-
-</p>
-
-<p align="center">
-
-<span>
-<img src="https://skillicons.dev/icons?i=huggingface" width="52" height="52" alt="DINO / DINOv2"/>
-<br/>
-<sub><b>DINO / DINOv2</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=huggingface" width="52" height="52" alt="Vision Transformers"/>
-<br/>
-<sub><b>Vision Transformers</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=huggingface" width="52" height="52" alt="Multimodal AI"/>
-<br/>
-<sub><b>Multimodal AI</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Feature Engineering"/>
-<br/>
-<sub><b>Feature Engineering</b></sub>
-</span>
-
-</p>
-
-<br/>
-
-### 🤖 Generative AI & AI Agents
-
-<p align="center">
-
-<span>
-<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="LLM Systems"/>
-<br/>
-<sub><b>LLM Systems</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=huggingface" width="52" height="52" alt="Transformers"/>
-<br/>
-<sub><b>Transformers</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=nvidia" width="52" height="52" alt="NVIDIA NIM"/>
-<br/>
-<sub><b>NVIDIA NIM</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="RAG"/>
 <br/>
-<sub><b>RAG</b></sub>
-</span>
+<b>RAG</b>
+</td>
 
-</p>
-
-<p align="center">
-
-<span>
-<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Multi-LLM Routing"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=huggingface" width="52" height="52" alt="Transformers"/>
 <br/>
-<sub><b>Multi-LLM Routing</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Transformers</b>
+</td>
 
-<span>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nvidia" width="52" height="52" alt="NVIDIA NIM"/>
+<br/>
+<b>NVIDIA NIM</b>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="AI Agents"/>
 <br/>
-<sub><b>AI Agents</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>AI Agents</b>
+</td>
 
-<span>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Multi-LLM Routing"/>
+<br/>
+<b>Multi-LLM Routing</b>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Prompt Engineering"/>
 <br/>
-<sub><b>Prompt Engineering</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Prompt Engineering</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Embeddings"/>
 <br/>
-<sub><b>Embeddings</b></sub>
-</span>
+<b>Embeddings</b>
+</td>
 
-</p>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Multimodal AI"/>
 <br/>
+<b>Multimodal AI</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Vision Language Models"/>
+<br/>
+<b>Vision-Language Models</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="DINO"/>
+<br/>
+<b>DINO / DINOv2</b>
+</td>
+
+</tr>
+</table>
 
 ### 💻 Languages & Frameworks
 
-<p align="center">
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python"/>
 <br/>
-<sub><b>Python</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Python</b>
+</td>
 
-<span>
-<img src="https://skillicons.dev/icons?i=javascript" width="52" height="52" alt="JavaScript"/>
-<br/>
-<sub><b>JavaScript</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://skillicons.dev/icons?i=typescript" width="52" height="52" alt="TypeScript"/>
-<br/>
-<sub><b>TypeScript</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=java" width="52" height="52" alt="Java"/>
 <br/>
-<sub><b>Java</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Java</b>
+</td>
 
-<span>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="52" height="52" alt="C"/>
+<br/>
+<b>C</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="52" height="52" alt="JavaScript"/>
+<br/>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="52" height="52" alt="TypeScript"/>
+<br/>
+<b>TypeScript</b>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=elixir" width="52" height="52" alt="Elixir"/>
 <br/>
-<sub><b>Elixir</b></sub>
-</span>
+<b>Elixir</b>
+</td>
 
-</p>
-
-<p align="center">
-
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=fastapi" width="52" height="52" alt="FastAPI"/>
 <br/>
-<sub><b>FastAPI</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>FastAPI</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=flask" width="52" height="52" alt="Flask"/>
 <br/>
-<sub><b>Flask</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Flask</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React"/>
 <br/>
-<sub><b>React</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>React</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML5"/>
 <br/>
-<sub><b>HTML5</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>HTML5</b>
+</td>
 
-<span>
+</tr>
+<tr>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS3"/>
 <br/>
-<sub><b>CSS3</b></sub>
-</span>
+<b>CSS3</b>
+</td>
 
-</p>
-
-<br/>
+</tr>
+</table>
 
 ### 🗄️ Databases
 
-<p align="center">
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-<span>
-<img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB"/>
-<br/>
-<sub><b>MongoDB</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL"/>
 <br/>
-<sub><b>MySQL</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>MySQL</b>
+</td>
 
-<span>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB"/>
+<br/>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL"/>
 <br/>
-<sub><b>PostgreSQL</b></sub>
-</span>
+<b>PostgreSQL</b>
+</td>
 
-</p>
-
-<br/>
+</tr>
+</table>
 
 ### ☁️ Cloud & Infrastructure
 
-<p align="center">
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=aws" width="52" height="52" alt="AWS"/>
 <br/>
-<sub><b>AWS</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>AWS</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=azure" width="52" height="52" alt="Azure"/>
 <br/>
-<sub><b>Azure</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Azure</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker"/>
 <br/>
-<sub><b>Docker</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Docker</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
 <br/>
-<sub><b>Git</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Git</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub"/>
 <br/>
-<sub><b>GitHub</b></sub>
-</span>
+<b>GitHub</b>
+</td>
 
-</p>
-
-<br/>
+</tr>
+</table>
 
 ### 🎙️ AI Audio & Media
 
-<p align="center">
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=ffmpeg" width="52" height="52" alt="FFmpeg"/>
 <br/>
-<sub><b>FFmpeg</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>FFmpeg</b>
+</td>
 
-<span>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=discord" width="52" height="52" alt="Discord"/>
 <br/>
-<sub><b>Discord.py</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Discord.py</b>
+</td>
 
-<span>
-<img src="https://skillicons.dev/icons?i=youtube" width="52" height="52" alt="YouTube API"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=youtube" width="52" height="52" alt="YouTube"/>
 <br/>
-<sub><b>YouTube API</b></sub>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>YouTube API</b>
+</td>
 
-<span>
-<img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Faster-Whisper"/>
-<br/>
-<sub><b>Faster-Whisper</b></sub>
-</span>
-
-</p>
-
-</div>
+</tr>
+</table>
 
 ---
 
