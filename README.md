@@ -69,13 +69,10 @@ I'm an **AI/ML Engineer & Upcoming Researcher** pursuing B.Tech in CSE (AI) at A
 ### 🧪 Research Stack
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pandas,numpy,matplotlib&titles=true&theme=dark&perline=5" alt="Python Scikit-Learn Pandas NumPy Matplotlib">
-</p>
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy,seaborn,xgboost,jupyter&titles=true&theme=dark&perline=4" alt="SciPy Seaborn Jupyter">
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pandas,numpy,matplotlib,scipy,seaborn,jupyter&titles=true&theme=dark&perline=4" alt="Python Scikit-Learn Pandas NumPy Matplotlib SciPy Seaborn Jupyter">
 
+</p>
 ---
 
 ---
